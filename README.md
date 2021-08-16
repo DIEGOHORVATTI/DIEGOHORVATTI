@@ -1,8 +1,7 @@
-### 👋 • Olá eu sou DlySan
+### • Olá eu sou Diego Horvatti
 
-- 👥 Eu atualmente estou aprendendo **JavaScript**, **TypeScript**, **Python**, **PHP** e **C#**.
-- 🌹 Eu sou um Desenvolvedor **Full Stack**, que estuda **Desenvolvimento de Software**.
-- 🎓 Pretendo fazer faculdade de **Ciências da Computação** ou **Engenharia de Software**.
+- 👥 Eu atualmente estou aprendendo **Python**, **PHP com PDO** e **React native** .
+- 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
 
 ### 📐 • Linguagens e Ferramentas
 
@@ -24,9 +23,9 @@
 ### 📕 • Últimos Projetos
 
 <ul>
-<li>🎯 <a href="https://www.super-server.ml/">Super Server</a></li>
-<li>🔥 <a href="https://www.superscans.site/">Super Scans</a></li>
-<li>🚀 <a href="https://www.dlysan.cf/">DlySan</a></li>
+<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-ende com a equipe.</a></li>
+<li>🎯 <a href="#">My site</a></li>
+<li>🔥 <a href="#">Super Scans</a></li>
 </ul>
 
 ### ⭐ • Status do Github
