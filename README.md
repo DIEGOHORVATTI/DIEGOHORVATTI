@@ -23,7 +23,7 @@
 ### 📕 • Últimos Projetos
 
 <ul>
-<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-ende com a equipe.</a></li>
+<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-end da equipe.</a></li>
 <li>🎯 <a href="#">My site</a></li>
 <li>🔥 <a href="#">Super Scans</a></li>
 </ul>
