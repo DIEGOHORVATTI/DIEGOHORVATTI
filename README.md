@@ -3,7 +3,7 @@
 - 👥 Eu atualmente estou aprendendo **Python**, **PHP com PDO** e **React native** .
 - 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
 
-### 📐 • Linguagens e Ferramentas
+### • Linguagens e Ferramentas
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
 <img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
@@ -20,7 +20,7 @@
 
 <br/>
 
-### 📕 • Últimos Projetos
+### • Últimos Projetos
 
 <ul>
 <li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-end da equipe.</a></li>
