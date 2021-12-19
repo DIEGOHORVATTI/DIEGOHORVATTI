@@ -30,7 +30,7 @@
 
 ### ⭐ • Status do Github
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="DIEGOHORVATTI Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="DIEGOHORVATTI Github Stats">
 
 ### 🔗 • Linguagens mais Usadas
 
