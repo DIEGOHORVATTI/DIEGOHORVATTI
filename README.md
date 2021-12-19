@@ -4,11 +4,6 @@ src="banner.png"/></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI" alt="DIEGOHORVATTI Github Stats">|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F)](https://git.io/streak-stats)
 |---|---|
 
-
-
-- 👥 Eu atualmente estou aprendendo **Nextjs**, e **Reactjs** .
-- 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
-
 **Técnologias que tenho experiência:**
 
 <div>
@@ -76,16 +71,16 @@ src="banner.png"/></a>
 <br>
 
 ### • Me contate <3!
-<span>
+
   <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank">
       <img height="20" src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-</span>
-<span>
+
+
   <a href="mailto:d.horvattid@gmail.com" target="blank">
       <img height="20" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</span>
+
 
                                      
 ### • Últimos Projetos
