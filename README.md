@@ -67,10 +67,30 @@ src="banner.png"/></a>
 
 <br>
 
+<br />
+
+* <p>  (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web dsigner e boot´scamps <b>Rocketseat</b>.</p>
+* <p>┏(・o･)┛♪ Eu atualmente estou me aprofundando em <b>Nextjs</b>, e <b>Reactjs</b> .</p>
+
+
+<br>
+
+### • Me contate <3!
+<span>
+  <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank">
+      <img height="20" src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</span>
+<span>
+  <a href="mailto:d.horvattid@gmail.com" target="blank">
+      <img height="20" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</span>
+
+                                     
 ### • Últimos Projetos
 
 <ul>
-<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como front-end da equipe.</a></li>
-<li>🎯 <a href="#">My site</a></li>
-<li>🔥 <a href="#">Super Scans</a></li>
+<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
+<li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
