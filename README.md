@@ -10,25 +10,25 @@ src="banner.png"/></a>
 - 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
 
 **Técnologias que tenho experiência:**
-<div>
-<pre>
+
+
 <img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-</pre>
-<pre>
+
+
 <img height="20" src=" 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</pre>
-<code>
+
+
 <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</code>
-<code>
+
+
 <img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-</code>
-<code>
+
+
 <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</code>
-<code>
+
+
 <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</code>
+
 <code>
 <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </code>
