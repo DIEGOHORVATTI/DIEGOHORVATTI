@@ -81,6 +81,8 @@ src="banner.png"/></a>
       <img height="20" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
+[![MyToyBox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "My Toy Box on App Store")](mailto:d.horvattid@gmail.com)
+
 
                                      
 ### • Últimos Projetos
