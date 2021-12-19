@@ -1,4 +1,7 @@
-### • Olá eu sou Diego Horvatti
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOHORVATTI&theme=radical"/>|
+|---|---|
 
 - 👥 Eu atualmente estou aprendendo **Nextjs**, e **Reactjs** .
 - 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
@@ -27,7 +30,3 @@
 <li>🎯 <a href="#">My site</a></li>
 <li>🔥 <a href="#">Super Scans</a></li>
 </ul>
-
-### ⭐ • Status do Github
-<img src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOHORVATTI&theme=radical"/>|
-|---|---|
