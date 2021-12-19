@@ -1,6 +1,6 @@
 ### • Olá eu sou Diego Horvatti
 
-- 👥 Eu atualmente estou aprendendo **Python**, **PHP com PDO** e **React native** .
+- 👥 Eu atualmente estou aprendendo **Nextjs**, e **Reactjs** .
 - 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
 
 ### • Linguagens e Ferramentas
