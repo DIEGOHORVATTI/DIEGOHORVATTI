@@ -73,8 +73,8 @@ src="banner.png"/></a>
 ### • Me contate <3!
 
 
-[![MyToyBox](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "My Toy Box on App Store")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
-[![MyToyBox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "My Toy Box on App Store")](mailto:d.horvattid@gmail.com)
+[![Diego Horvati - whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "My Toy Box on App Store")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
+[![Diego Horvatti - gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "My Toy Box on App Store")](mailto:d.horvattid@gmail.com)
 
 
                                      
