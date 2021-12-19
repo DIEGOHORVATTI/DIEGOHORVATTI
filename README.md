@@ -1,7 +1,12 @@
 <a href="https://discord.gg/VfVB9CP3"><img align="center" 
 src="banner.png"/></a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOHORVATTI&theme=green"/>|
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F)](https://git.io/streak-stats)
+|---|---|
+|---|---|
+
+
 
 - 👥 Eu atualmente estou aprendendo **Nextjs**, e **Reactjs** .
 - 🎓 Eu sou um Desenvolvedor **Full Stack**, que estuda **Ciências da Computação** e outros cursos como web dsigner.
