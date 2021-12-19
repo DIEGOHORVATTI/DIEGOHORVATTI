@@ -12,29 +12,57 @@ src="banner.png"/></a>
 **Técnologias que tenho experiência:**
 <div>
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://avatars.githubusercontent.com/u/1134463?v=4">
+<img height="20" src=" 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://camo.githubusercontent.com/4a1c4416d6dc919a0d88b3e0c0daad321e0701b90ae2f06ec899618f354ae237/68747470733a2f2f637574742e6c792f615175684c7678">
+<img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://camo.githubusercontent.com/999d9492316ee30fa7a2da896f9191a0356018a1f9b08497376bd1ac46fd208f/68747470733a2f2f6269742e6c792f3372316b7a7859">
+<img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </code>
 <code>
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+<img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+<img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </code>
 <code>
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png">
+<img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </code>
+<code>
+<img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</code>
+<code>
+<img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</code>
+<code>
 </div>
 <br>
 <div>
