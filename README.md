@@ -1,7 +1,7 @@
 <a href="https://discord.gg/VfVB9CP3"><img align="center" 
 src="banner.png"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOHORVATTI&theme=green"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOHORVATTI&theme=8bit"/>|
 |---|---|
 
 - 👥 Eu atualmente estou aprendendo **Nextjs**, e **Reactjs** .
