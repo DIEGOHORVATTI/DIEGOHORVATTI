@@ -1,7 +1,7 @@
 <a href="https://discord.gg/VfVB9CP3"><img align="center" 
 src="banner.png"/></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=none&hide_border=true&custom_title=DIEGO HORVATTI" alt="DIEGOHORVATTI Github Stats">|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=none&hide_border=true&custom_title=DIEGO-HORVATTI" alt="DIEGOHORVATTI Github Stats">|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F)](https://git.io/streak-stats)
 |---|---|
 
 
