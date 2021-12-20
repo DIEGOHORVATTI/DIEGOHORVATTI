@@ -84,3 +84,5 @@ src="banner.png"/></a>
 <li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
+
+![snake gif](https://github.com/YOUR_USERNAME/DIEGOHORVATTI/github-contribution-grid-snake.gif)
