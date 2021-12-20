@@ -85,4 +85,6 @@ src="banner.png"/></a>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
 
+<img align="center" src="https://github.com/YOUR_USERNAME/DIEGOHORVATTI/github-contribution-grid-snake.gif">
+
 ![snake gif](https://github.com/YOUR_USERNAME/DIEGOHORVATTI/github-contribution-grid-snake.gif)
