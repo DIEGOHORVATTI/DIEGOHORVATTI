@@ -65,7 +65,7 @@ src="banner.png"/></a>
 <br />
 
 <span>
-    <img height="100" src="https://cdn-images-1.medium.com/max/800/1*pAiFtxYHdjg4-HP6e46wZA.gif">
+    <img height="200" src="https://cdn-images-1.medium.com/max/800/1*pAiFtxYHdjg4-HP6e46wZA.gif">
 </span>
 
 * <p>  (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web designer e boot´scamps <b>Rocketseat</b>.</p>
