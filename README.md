@@ -87,4 +87,8 @@ src="banner.png"/></a>
 
 ![snake gif](https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/DIEGOHORVATTI/git-badges)](https://badges.pufler.dev)
+<div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
+   </a>
+</div>
