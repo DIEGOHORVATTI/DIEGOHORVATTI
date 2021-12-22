@@ -64,11 +64,8 @@ src="banner.png"/></a>
 
 <br />
 
-
-<ul>
-<img height="96" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"> | <li><p>  (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web designer e boot´scamps <b>Rocketseat</b>.</li> | <li>┏(・o･)┛♪ Eu atualmente estou me aprofundando em <b>Nextjs</b>, e <b>Reactjs</b> .</li>
-|---|---|
-</ul>
+:--------- | :------: | -------:
+<img height="96" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"> | * <p> (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web designer e boot´scamps <b>Rocketseat</b> .</p> | * <p>┏(・o･)┛♪ Eu atualmente estou me aprofundando em <b>Nextjs</b>, e <b>Reactjs</b> .</p>
 
 
 <br>
