@@ -83,8 +83,6 @@ src="banner.png"/></a>
 <ul>
 <li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
-</ul>
+</ul>blob/output/github-contribution-grid-snake.svg
 
-<img align="center" src="https://github.com/YOUR_USERNAME/DIEGOHORVATTI/github-contribution-grid-snake.gif">
-
-![snake gif](https://github.com/YOUR_USERNAME/DIEGOHORVATTI/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg)
