@@ -64,7 +64,7 @@ src="banner.png"/></a>
 
 <br />
 
-<img height="auto" width="auto" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96">|<p> (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web designer e boot´scamps <b>Rocketseat</b> .</p>|<p>┏(・o･)┛♪ Eu atualmente estou me aprofundando em <b>Nextjs</b>, e <b>Reactjs</b> .</p>
+<img height="auto" width="auto" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96">|<p> (•◡•) / Ola eu sou um Desenvolvedor <b>Full Stack</b>, estudo <b>Ciências da Computação</b> e outros cursos como web designer e boot´scamps <b>Rocketseat</b>.</p>|<p>┏(・o･)┛♪ Eu atualmente estou me aprofundando em <b>Nextjs</b>, e <b>Reactjs</b>.</p>
 |---|---|---|
 
 <br>
@@ -72,8 +72,9 @@ src="banner.png"/></a>
 ### • Me contate <3!
 
 
-[![Diego Horvati - whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "My Toy Box on App Store")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
-[![Diego Horvatti - gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "My Toy Box on App Store")](mailto:d.horvattid@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "Diego Horvati - whatsapp")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Diego Horvatti - gmail")](mailto:d.horvattid@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Diego Horvatti - Linkedin")](https://www.linkedin.com/in/diego-horvatti/)
 
 
                                      
