@@ -85,7 +85,7 @@ src="banner.png"/></a>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
 
- ![Snake animation](https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/github-user-contribution.svg)
+ ![Snake animation](https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right">
   <a href="https://badges.pufler.dev">
