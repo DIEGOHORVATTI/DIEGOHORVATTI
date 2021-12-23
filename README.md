@@ -1,10 +1,15 @@
 <a href="https://discord.gg/VfVB9CP3"><img align="center" 
 src="banner.png"/></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI" alt="DIEGOHORVATTI Github Stats">|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F)](https://git.io/streak-stats)
-|---|---|
-
-**Técnologias que tenho experiência:**
+ <table width="100%" border="0">
+   <tr>
+       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI" alt="DIEGOHORVATTI Github Stats"></td>
+       <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"></td>
+   </tr>
+ </table>
+  
+<br />
+<b>Técnologias que tenho experiência:</b>
 
 <div>
    <span>
@@ -59,15 +64,15 @@ src="banner.png"/></a>
     <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    </span>
 </div>
-   
-<br>
-
 <br />
 
-<img height="auto" width="auto" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96">|<p>Ola eu sou um Desenvolvedor Full Stack, estudo Ciências da Computação e outros cursos como web designer e boot´scamps Rocketseat.</p>|<p>┏(・o･)┛♪ Eu atualmente estou me aprofundando em Nextjs, e Reactjs.</p>
-|-----|---|---|
-
-<br>
+<table border="0">
+  <tr>
+      <td><span><a href="#"><img height="30"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a>Ola eu sou um Desenvolvedor Full Stack, estudo Ciências da Computação e outros cursos como web designer e boot´scamps Rocketseat.</td>
+      <td>┏(・o･)┛♪ Eu atualmente estou me aprofundando em Nextjs, e Reactjs.</td>
+  </tr>
+</table>
+<br />
 
 <div align="center">
   <h3>• Me contate <3!</h3>
@@ -78,14 +83,18 @@ src="banner.png"/></a>
    </div>
 </div>                     
                                      
-### • Últimos Projetos
+<h3> • Últimos Projetos</h3>
 
 <ul align="center">
 <li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
 
- ![Snake animation](https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg)
+<div align="center" width="100%">
+  <a href="#">
+     <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
+   </a>
+</div>
 
 <div align="right">
   <a href="https://badges.pufler.dev">
