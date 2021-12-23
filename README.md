@@ -60,7 +60,7 @@ src="banner.png"/></a>
    </span>
 </div>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohorvatti&layout=compact&hide_border=true&title_color=27DD00&text_color=27DD00&bg_color=0d1117)](DIEGO HORVATTI - LINGUAGENS)|[![](https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Repositories&theme=matrix)](DIEGO HORVATTI - REPOSITÓRIOS)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohorvatti&layout=compact&hide_border=true&title_color=27DD00&text_color=27DD00&bg_color=0d1117)]()|[![](https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Repositories&theme=matrix)]()
 |---|---|
 <br>
 
