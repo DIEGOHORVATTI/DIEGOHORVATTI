@@ -59,11 +59,12 @@ src="banner.png"/></a>
     <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
    </span>
 </div>
+
 <div align="center">
     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegohorvatti&layout=compact&hide_border=true&title_color=27DD00&text_color=27DD00&bg_color=0d1117">
-<div>
+</div>
   
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Repositories&theme=matrix">|<img align="center" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Commit&theme=matrix">|<img align="center" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=PullRequest&theme=matrix">
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Repositories&theme=matrix">|<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=Commit&theme=matrix">|<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=diegohorvatti&title=PullRequest&theme=matrix">
 |---|---|---|
    
 <br>
@@ -75,18 +76,18 @@ src="banner.png"/></a>
 
 <br>
 
-### • Me contate <3!
-
-
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "Diego Horvati - whatsapp")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Diego Horvatti - gmail")](mailto:d.horvattid@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Diego Horvatti - Linkedin")](https://www.linkedin.com/in/diego-horvatti/)
+<div align="center">
+  ### • Me contate <3!
+  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white "Diego Horvati - whatsapp")](https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor.)
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Diego Horvatti - gmail")](mailto:d.horvattid@gmail.com)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Diego Horvatti - Linkedin")](https://www.linkedin.com/in/diego-horvatti/)
+</div>                     
 
 
                                      
 ### • Últimos Projetos
 
-<ul>
+<ul align="center">
 <li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
