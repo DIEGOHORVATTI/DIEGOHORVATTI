@@ -68,7 +68,7 @@ src="banner.png"/></a>
 
 <table border="0">
   <tr>
-      <td><span><a href="#"><img height="30"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a>Ola eu sou um Desenvolvedor Full Stack, estudo Ciências da Computação e outros cursos como web designer e boot´scamps Rocketseat.</td>
+      <td><span><a href="#"><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a> Ola eu sou um Desenvolvedor Full Stack, estudo Ciências da Computação e outros cursos como web designer e boot´scamps Rocketseat.</td>
       <td>┏(・o･)┛♪ Eu atualmente estou me aprofundando em Nextjs, e Reactjs.</td>
   </tr>
 </table>
