@@ -68,8 +68,8 @@ src="banner.png"/></a>
 
 <table border="0">
   <tr>
-      <td><span><a href="#"><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a> Ola eu sou um Desenvolvedor Full Stack, estudo Ciências da Computação e outros cursos como web designer e boot´scamps Rocketseat.</td>
-      <td>┏(・o･)┛♪ Eu atualmente estou me aprofundando em Nextjs, e Reactjs.</td>
+      <td><span><a href="#"><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a> Olá, eu sou um desenvolvedor full-stack, estou estudando Ciências da Computação e mais alguns cursos de web design e outros como bootcamps da Rocketseat.</td>
+      <td>┏(・o･)┛♪ Atualmente estou me aprofundando também em ReactJS, NextJS e Sass.</td>
   </tr>
 </table>
 <br />
@@ -86,7 +86,7 @@ src="banner.png"/></a>
 <h3> • Últimos Projetos</h3>
 
 <ul align="center">
-<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como líder de equipe em nextjs.</a></li>
+<li>🎯 <a href="#">Atualmente estou desenvolvendo o novo site de mangás da Scans como líder de equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
 
