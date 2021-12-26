@@ -86,7 +86,7 @@ src="banner.png"/></a>
 <h3> • Últimos Projetos</h3>
 
 <ul align="center">
-<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como fullstack gerente da equipe em nextjs.</a></li>
+<li>🎯 <a href="#">atualmente estou desenvolvendo o novo site de mangás da scans como líder de equipe em nextjs.</a></li>
 <li>🔥 <a href="beta.superscans.site/"  target="blank"><b>Super Scans (beta)</b></a></li>
 </ul>
 
