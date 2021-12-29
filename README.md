@@ -8,6 +8,9 @@ src="banner.png"/></a>
    </tr>
  </table>
   
+![Metrics](https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&pagespeed=1&isocalendar=1&languages=1&people=1&gists=1&lines=1&achievements=1&code=1&repositories=1&stars=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code.lines=12&code.load=100&code.visibility=all&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=America%2FSao_Paulo&config.display=large)
+
+
 <br />
 <b>Técnologias que tenho experiência:</b>
 
