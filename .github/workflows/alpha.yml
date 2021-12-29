@@ -13,9 +13,9 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    if: "github.repository == 'DIEGOHORVATTI/DIEGOHORVATTI'"
+    if: "github.repository == 'lowlighter/lowlighter'"
     steps:
 
-      - uses: DIEGOHORVATTI/metrics@master
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
