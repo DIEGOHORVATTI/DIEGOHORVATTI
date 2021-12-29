@@ -1,3 +1,5 @@
+<img width="100%" height="100%"  border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&languages=1&isocalendar=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=America%2FCampo_Grande&config.display=columns" />
+
 <a href="https://discord.gg/VfVB9CP3"><img align="center" 
 src="banner.png"/></a>
 
@@ -8,7 +10,7 @@ src="banner.png"/></a>
    </tr>
  </table>
   
-<img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&languages=1&isocalendar=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=America%2FCampo_Grande&config.display=columns" />
+
 
 <b>Técnologias que tenho experiência:</b>
 
