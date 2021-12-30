@@ -7,8 +7,8 @@ src="banner.png"/></a>
        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"></td>
    </tr>
  </table>
-  
-<img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&isocalendar=1&languages=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=America%2FCampo_Grande&config.twemoji=true&config.display=columns" />
+ 
+<img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)" />
 
 <b>Técnologias que tenho experiência:</b>
 
