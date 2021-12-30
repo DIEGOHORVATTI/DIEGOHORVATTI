@@ -8,8 +8,17 @@ src="banner.png"/></a>
    </tr>
  </table>
  
-<img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)" />
-
+ <table width="100%" border="0">
+   <tr>
+       <td width="60%">
+        <img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)" />
+        </td>
+    <td>
+     <img width="100%" border="0" align="center" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/div.gif" />
+    </td>
+   </tr>
+ </table>
+ 
 <b>Técnologias que tenho experiência:</b>
 
 <div>
