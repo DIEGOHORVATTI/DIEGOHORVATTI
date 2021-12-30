@@ -78,14 +78,14 @@ src="banner.png"/></a>
 
 <table border="0">
   <tr>
-      <td><span><a href="#"><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"></a> Olá, eu sou um desenvolvedor full-stack, estou estudando Ciências da Computação e mais alguns cursos de web design e outros como bootcamps da Rocketseat.</td>
-      <td>┏(・o･)┛♪ Atualmente estou me aprofundando também em ReactJS, NextJS e Sass.</td>
+      <td><span><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</td>
+      <td><img height="20"src="https://cdn.discordapp.com/emojis/588639475756826624.gif"> Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.</td>
   </tr>
 </table>
 <br />
 
 <div align="center">
-  <h3><img width="20px" src="https://cdn.discordapp.com/emojis/588639475756826624.gif"/> Me contate <3!</h3>
+  <h3><img width="20px" src="https://daily-dev-tips.com/images/logo.png"/> Me contate <3!</h3>
    <div>
      <span><a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank" /><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></span>
      <span><a href="mailto:d.horvattid@gmail.com" target="blank" /><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></span>
