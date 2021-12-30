@@ -76,11 +76,12 @@ src="banner.png"/></a>
 <br />
 
 <div align="center">
-  <h3>• Me contate <3!</h3>
+  <h3><img width="20px" src="https://cdn.discordapp.com/emojis/588639475756826624.gif"/> Me contate <3!</h3>
    <div>
-     <span><a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor."><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></span>
-     <span><a href="mailto:d.horvattid@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></span>
+     <span><a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank" /><img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a></span>
+     <span><a href="mailto:d.horvattid@gmail.com" target="blank" /><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></span>
      <span><a href="https://www.linkedin.com/in/diego-horvatti/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></span>
+    <span><a href="https://discord.gg/rRP7RYnRxf" target="blank" /><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a></span>
    </div>
 </div>                     
                                      
