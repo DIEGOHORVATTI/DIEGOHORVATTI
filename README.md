@@ -11,21 +11,27 @@ src="banner.png"/></a>
  <table width="100%" border="0">
    <tr>
        <td width="60%">
-        <img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)" />
+        <img width="100%" border="0" align="center" src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)" alt="Diego Horvatti" />
         </td>
     <td>
-     <img width="100%" border="0" align="center" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/div.gif" />
+     <img width="100%" border="0" align="center" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/div.gif" alt="Diego Horvatti" />
     </td>
    </tr>
  </table>
  
- <div align="center">
-<p>Escreva algo bom no meu livro de visitas:</p>
-<a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
- 
-<b>Técnologias que tenho experiência:</b>
 
+<div align="center">
+  <p width="25%">Escreva algo no meu livro de visitas ↴</p>
+    <div>
+      <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
+       <img width="25%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf8e37f2-61c8-448e-b18c-1235925b022a/db92sky-e7de2148-e70d-4c9f-9c3a-33418a5aaccc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmOGUzN2YyLTYxYzgtNDQ4ZS1iMThjLTEyMzU5MjViMDIyYVwvZGI5MnNreS1lN2RlMjE0OC1lNzBkLTRjOWYtOWMzYS0zMzQxOGE1YWFjY2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FNFobqH05MNKt9MIDOTXExyX_TpjEIigqfkTwvrgV2w" alt="Diego Horvatti" />
+      </a>
+    </div>
+</div>
+
+<br />
+
+<b>Técnologias que tenho experiência:</b>
 <div>
    <span>
     <img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -81,12 +87,34 @@ src="banner.png"/></a>
 </div>
 <br />
 
+<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> Sobre Min</h2>
 <table border="0">
   <tr>
-      <td><span><img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</td>
-      <td><img height="20"src="https://cdn.discordapp.com/emojis/588639475756826624.gif"> Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.</td>
+      <td>
+       <p>
+<img height="27"src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96"> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).
+       </p>
+   </td>
+      <td>
+       <p>
+        <img height="20" src="https://cdn.discordapp.com/emojis/588639475756826624.gif">
+       Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.
+       </p>
+   </td>
   </tr>
 </table>
+
+<div>
+  <img  align="left" width="25%" src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" />
+    <div align="left">
+      <p><b>➥ Name:</b> Diego Horvatti</p>
+      <p><b>➥ Idade:</b> 19y/o</p>
+      <p><b>➥ Apelido:</b> Div</p>
+      <p><b>➥ Hobbys:</b> Ler Mangás como se não tivese um amanhã</p>
+      <p><b>➥ Trabalhando: @superscans</b> Front-end | privited</p>
+    </div>
+</div>
+
 <br />
 
 <div align="center">
