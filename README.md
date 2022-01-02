@@ -106,7 +106,7 @@
 </div>
 <br />
 
-<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> Sobre Min</h2>
+<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> Sobre Mim</h2>
 <table border="0">
   <tr>
     <td>
