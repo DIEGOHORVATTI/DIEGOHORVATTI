@@ -25,7 +25,7 @@
         width="100%"
         border="0"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=Linguagens mais usadas <3"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=L̪̮͉͖̜̙̈́̀̌́͌͑͆̑̒͗̅̋i̠̞̯͈̤̥̩͓̣͐͑̋͂̋̆͗̽̓n̖̖͔̣͈͍̩͖̟̦͇̈́̆̈́̅͛̑ḡ̩̥͎͇̰͍͙̜͙̖̃͗͑̉̓͋̚̚u͇͎̝̠̩̜̫̝͑̒̈́͋a͖̤̙͓̟͙͕͑̀͋̊́̀̔g̖̥̮̜͎͎̯͖͙̐͗̎̾̊̀̎e̖͈͔̲̰̟̬̳͉͇̳͐́͆̾͆͊̏̏̅͋̌̃n̙̘̘̲͔͕̳̝͎͎̙̮̏̀̎̆̅̃s̩̣̪̟̎͗́͂͋̄̿̅ͅͅ m͔̲̮̬̠̌͑̑́͛͗̔̉̚á̗͍̩̫̖̳͈̲͋̿̑͑̀i̭͍̜͖̥̮̞̮̘͉͐͂͌͒̈́̿ͅs̲̳̰̥̔̀̌̒́͒͐͐̈̂̚ u̝͕̱̟̓͑̒͂͋̋s͙̝͓̞͍̆̔̈͗̎̈̿̽̂̀̌ã̰̖͇͚̣̱͐̅̓̔ͅd̟͈͖͎͎͍̭͉͙́͊̈̋̽͆ả͕̥̗͙̫̂͗̀̒̾̂̆̆́ͅͅs͎͈̰͉͛̃̒́̈́̓"
         alt="Diego Horvatti"
       />
     </td>
@@ -36,7 +36,7 @@
 </table>
 
 <div align="center">
-  <p width="25%">𝓔𝓼𝓬𝓻𝓮𝓿𝓪 𝓪𝓵𝓰𝓸 𝓷𝓸 𝓶𝓮𝓾 𝓵𝓲𝓿𝓻𝓸 𝓭𝓮 𝓿𝓲𝓼𝓲𝓽𝓪𝓼 ↴</p>
+  <p width="25%"> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</p>
   <div>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
