@@ -36,7 +36,7 @@
 </table>
 
 <div align="center">
-  <p width="25%"> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</p>
+  <p width="25%"><h4> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</h4></p>
   <div>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
@@ -176,10 +176,10 @@
 </div>
   
 <div align="center">
-  <h3>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h3>
+  <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
     <hr />
  <img
-   width="60%"
+   width="100%"
    border="0"
    align="center"
    src="https://i.pinimg.com/originals/2c/47/b2/2c47b2c26bae2a7f13a9884efd78463f.gif"
