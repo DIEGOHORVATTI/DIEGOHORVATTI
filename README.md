@@ -20,12 +20,12 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="60%">
+    <td width="50%">
       <img
         width="100%"
         border="0"
         align="center"
-        src="https://metrics.lecoq.io/DIEGOHORVATTI?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FCampo_Grande&config.display=large)"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=Linguagens mais usadas <3"
         alt="Diego Horvatti"
       />
     </td>
@@ -36,7 +36,7 @@
 </table>
 
 <div align="center">
-  <p width="25%">Escreva algo no meu livro de visitas ↴</p>
+  <p width="25%">𝓔𝓼𝓬𝓻𝓮𝓿𝓪 𝓪𝓵𝓰𝓸 𝓷𝓸 𝓶𝓮𝓾 𝓵𝓲𝓿𝓻𝓸 𝓭𝓮 𝓿𝓲𝓼𝓲𝓽𝓪𝓼 ↴</p>
   <div>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
@@ -50,7 +50,7 @@
 
 <br />
 
-<b>Técnologias que tenho experiência:</b>
+<h4><b>𝓣𝓮́𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓺𝓾𝓮 𝓽𝓮𝓷𝓱𝓸 𝓮𝔁𝓹𝓮𝓻𝓲𝓮̂𝓷𝓬𝓲𝓪:</b></h4>
 <div>
   <span>
     <img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -106,7 +106,7 @@
 </div>
 <br />
 
-<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> Sobre Mim</h2>
+<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
 <table border="0">
   <tr>
     <td>
@@ -135,7 +135,7 @@
 <br />
 
 <div align="center">
-  <h3><img width="20px" src="https://daily-dev-tips.com/images/logo.png" /> Me contate <3!</h3>
+  <h3><img width="20px" src="https://daily-dev-tips.com/images/logo.png" /> 𝓜𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓮 <3!</h3>
   <div>
     <span>
       <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank">
@@ -154,7 +154,7 @@
   </div>
 </div>
 
-<h3>• Últimos Projetos</h3>
+<h3>𝓤́𝓵𝓽𝓲𝓶𝓸𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h3>
 
 <ul align="center">
   <li>🎯 Atualmente estou desenvolvendo o novo site de mangás da Scans como líder de equipe em nextjs.</li>
@@ -174,3 +174,15 @@
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
   </a>
 </div>
+  
+<div align="center">
+  <h3>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h3>
+    <hr />
+ <img
+   width="60%"
+   border="0"
+   align="center"
+   src="https://i.pinimg.com/originals/2c/47/b2/2c47b2c26bae2a7f13a9884efd78463f.gif"
+   alt="Diego Horvatti"
+/>
+<div>
