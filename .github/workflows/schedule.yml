@@ -8,7 +8,17 @@ on:
 
 jobs:
     update-readme:
-        name: DIEGOHORVATTI/DIEGOHORVATTI
+        name: Update this repo's README
         runs-on: ubuntu-latest
         steps:
         - uses: ryuanerin/top-languages-readme@master
+          with:
+            COMMIT_MESSAGE: "Updated the Graph with new Metrics" # Optional
+            USERNAME: DIEGOHORVATTI # Optional
+            LINE_FORMAT: "$NAME   $SIZE $BAR  $PERCENT" # Optional
+            LIST_COUNT: 10 # Optional
+            BLOCKS: "░█" # Optional
+            BAR_WIDTH: 25 # Optional
+            SHOW_TOTAL: false # Optional
+            TOP_TOTAL: false # Optional
+            SHOW_TOTAL_SEPARATOR: true # Optional
