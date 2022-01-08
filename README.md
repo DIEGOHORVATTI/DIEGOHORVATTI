@@ -1,16 +1,33 @@
-
+<hr />
+<div align="center">
+  <span>All Languages>>&nbsp;&nbsp;</span>
+  <span>
+    <a href="README.en">
+      <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="14"> English ★★★
+    </a>
+  </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+    <a href="README_hi.md">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" height="14"> Hindi ★★★
+    </a>
+  </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+    <a href="README_es.md">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" height="14"> Espanhol ★★☆
+    </a>
+    </span>
+  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+  <span>
+   <a href="README_ch.md">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" height="14"> Chinese ★★☆
+    </a>
+    </span>
+</div>
+<hr />
 
 <a href="https://discord.gg/VfVB9CP3"><img align="center" src="banner.png" /></a>
-
-<table align="center">
-  <tr>
-    <td><a href="README.en"><img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="14"> English ★★★</a></td>
-    <td><a href="README_hi.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" height="14"> Hindi ★★★</a></td>
-    <td><a href="README_ge.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" height="14"> Espanhol ★★☆</a></td>
-    <td><a href="README_ch.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" height="14"> Chinese ★★☆</a></td>
-    <td><a href="README_rs.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1280px-Flag_of_Russia.svg.png" height="14"> Russian ★★☆</a></td>
-</tr>
-</table>
 
 <table width="100%" border="0">
   <tr>
