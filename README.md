@@ -193,6 +193,9 @@
   </li>
 </ul>
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <div align="center" width="100%">
   <a href="#">
     <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
