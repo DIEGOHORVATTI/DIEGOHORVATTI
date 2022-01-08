@@ -2,7 +2,7 @@
 <div align="center">
   <span>All Languages>>&nbsp;&nbsp;</span>
   <span>
-    <a href="README_en">
+    <a href="README_en.md">
       <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="14"> English ★★★
     </a>
   </span>
