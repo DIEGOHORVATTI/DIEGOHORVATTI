@@ -1,24 +1,31 @@
-# This is a basic workflow to help you get started with Actions
+name: Update Readme
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  repository_dispatch:
-    types:
-      - cron-readme
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: 0 * * * *
+  push:
+    branches:
+      - master
+    paths: 
+      - README.md
+      - .github/workflows/*
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-     - uses: DIEGOHORVATTI/schedule@master
+      - uses: DIEGOHORVATTI/waka-readme@master
         with:
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          API_BASE_URL: 'https://waka.ryuar.in/api'
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TIME: true
+          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
+          
+      - uses: DIEGOHORVATTI/top-languages-readme@master
+        with:
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
+          LIST_COUNT: 10
+          SHOW_TOTAL: true
