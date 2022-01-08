@@ -193,8 +193,8 @@
   </li>
 </ul>
   
-<!--START_SECTION:top_language-->
-<!--END_SECTION:top_language-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 <div align="center" width="100%">
   <a href="#">
