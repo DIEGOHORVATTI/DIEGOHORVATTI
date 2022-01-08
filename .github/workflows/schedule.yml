@@ -1,31 +1,14 @@
-name: Update Readme
+name: Top-Languages Readme
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 * * * *
-  push:
-    branches:
-      - master
-    paths: 
-      - README.md
-      - .github/workflows/*
+    workflow_dispatch:
+    schedule:
+        # Runs at 12am UTC
+        - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: DIEGOHORVATTI/waka-readme@master
-        with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: 'https://waka.ryuar.in/api'
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
-          
-      - uses: DIEGOHORVATTI/top-languages-readme@master
-        with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
-          LIST_COUNT: 10
-          SHOW_TOTAL: true
+    update-readme:
+        name: DIEGOHORVATTI/DIEGOHORVATTI
+        runs-on: ubuntu-latest
+        steps:
+        - uses: ryuanerin/top-languages-readme@master
