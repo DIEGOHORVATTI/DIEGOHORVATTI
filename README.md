@@ -207,7 +207,7 @@ No Activity tracked this Week
 
 <div align="right">
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
+    <img src="https://wakatime.com/share/@b06c7b17-30bc-4294-8c5c-45bfe2a45f9f/e22b13ce-337f-46f3-86b6-b47c0ef7ddfc.svg" alt="Visitors badge" />
   </a>
 </div>
   
