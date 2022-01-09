@@ -207,7 +207,7 @@ No Activity tracked this Week
 
 <div align="right">
   <a href="https://badges.pufler.dev">
-    <img src="https://wakatime.com/share/@b06c7b17-30bc-4294-8c5c-45bfe2a45f9f/e22b13ce-337f-46f3-86b6-b47c0ef7ddfc.svg" alt="Visitors badge" />
+    <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
   </a>
 </div>
   
@@ -218,7 +218,7 @@ No Activity tracked this Week
    width="100%"
    border="0"
    align="center"
-   src="https://i.pinimg.com/originals/2c/47/b2/2c47b2c26bae2a7f13a9884efd78463f.gif"
+   src="https://wakatime.com/share/@b06c7b17-30bc-4294-8c5c-45bfe2a45f9f/fb1912bc-5a7b-4528-bbc3-0112a67c8be4.svg"
    alt="Diego Horvatti"
 />
 <div>
