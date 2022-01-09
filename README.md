@@ -64,18 +64,27 @@
   </tr>
 </table>
 
-<div align="center">
-  <p width="25%"><h4> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</h4></p>
-  <div>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%"align="center" >
+      <p><h4> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</h4></p>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
-        width="25%"
+        align="center"
+         width="80%"
         src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf8e37f2-61c8-448e-b18c-1235925b022a/db92sky-e7de2148-e70d-4c9f-9c3a-33418a5aaccc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmOGUzN2YyLTYxYzgtNDQ4ZS1iMThjLTEyMzU5MjViMDIyYVwvZGI5MnNreS1lN2RlMjE0OC1lNzBkLTRjOWYtOWMzYS0zMzQxOGE1YWFjY2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FNFobqH05MNKt9MIDOTXExyX_TpjEIigqfkTwvrgV2w"
-        alt="Diego Horvatti"
+        alt="DIEGOHORVATTI Github Stats"
       />
-    </a>
-  </div>
-</div>
+     </a>
+    </td>
+    <td>
+      <img
+        align="center"
+        src="https://wakatime.com/share/@b06c7b17-30bc-4294-8c5c-45bfe2a45f9f/9a4727e2-2a3a-405a-8142-37d52ecc9532.png"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <br />
@@ -199,8 +208,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
   
+  
 <div align="center" width="100%">
   <a href="#">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
     <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </a>
 </div>
@@ -214,11 +225,4 @@ No Activity tracked this Week
 <div align="center">
   <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
     <hr />
- <img
-   width="100%"
-   border="0"
-   align="center"
-   src="https://wakatime.com/share/@b06c7b17-30bc-4294-8c5c-45bfe2a45f9f/fb1912bc-5a7b-4528-bbc3-0112a67c8be4.svg"
-   alt="Diego Horvatti"
-/>
 <div>
