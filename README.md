@@ -205,9 +205,8 @@
 <h4>Esta semana eu estou ativo em: </h4>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2012%20mins-blue)
 
-**I'm a Night 🦉** 
+**Eu sou noturno 🦉** 
 
 ```text
 🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
@@ -216,7 +215,7 @@
 🌙 Night      51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **Sou mais produtivo na segunda** 
 
 ```text
 Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
@@ -230,7 +229,7 @@ Sunday       79 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
 ⌚︎ Time Zone: America/Campo_Grande
@@ -252,7 +251,7 @@ Linux                    2 hrs 22 mins       ███████████�
 
 ```
 
-**I Mostly Code in HTML** 
+**Languages/Repos** 
 
 ```text
 HTML                     6 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
