@@ -201,8 +201,6 @@
     🔥 <a href="beta.superscans.site/" target="blank"><b>Super Scans (beta)</b></a>
   </li>
 </ul>
-
-<h4>Esta semana eu estou ativo em: </h4>
   
 <!--START_SECTION:waka-->
 
