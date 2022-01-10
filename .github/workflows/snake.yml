@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Gerador Snake
 
 on:
   schedule: # execute every 6 hours
