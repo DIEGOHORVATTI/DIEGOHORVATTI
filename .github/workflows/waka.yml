@@ -2,20 +2,19 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
+  schedule: # execute every 6 hours
+    - cron: "* */6 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: "pt_BR"
+          LOCALE: "pt"
           COMMIT_MESSAGE: Update Waka stats
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: false
