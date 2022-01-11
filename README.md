@@ -203,7 +203,7 @@
 </ul>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2051%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -263,7 +263,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
   
   
