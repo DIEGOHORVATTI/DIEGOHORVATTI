@@ -146,14 +146,15 @@
 <br />
 
 <h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
+
 <table border="0">
   <tr>
     <td>
-      <p><img height="27" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</p>
+      <p><img width="27" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</p>
     </td>
     <td>
       <p>
-        <img height="20" src="https://cdn.discordapp.com/emojis/588639475756826624.gif" />
+        <img width="20" src="https://cdn.discordapp.com/emojis/588639475756826624.gif" />
         Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.
       </p>
     </td>
@@ -278,14 +279,23 @@ PHP                      1 repo              █░░░░░░░░░░�
     <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </a>
 </div>
-
+  
+<div align="center">
+  <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
+    <hr />
+    <tr>
+    <td>
+      <h4>Veja sobre min no seu terminal <3</h4>
+    </td>
+    <td>
+      <pre><h4>npx diegohorvatti</h4></pre>
+    </td>
+  </tr>
+  <img src="https://camo.githubusercontent.com/bc9182361235c6d7d7765e27e327225b55c68098bd8f3e63759f03418ceb4a18/68747470733a2f2f692e696d6775722e636f6d2f52636c503942372e706e67" />
+<div>
+  
 <div align="right">
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
   </a>
 </div>
-  
-<div align="center">
-  <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
-    <hr />
-<div>
