@@ -281,19 +281,19 @@ PHP                      1 repo              █░░░░░░░░░░�
 </div>
   
 <div align="center">
-  <h2>𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓿𝓮𝓻 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 <3<h2>
-    <hr />
     <tr>
     <td>
       <h4>Veja sobre min no seu terminal <3</h4>
     </td>
     <td>
-      <pre><h4>npx diegohorvatti</h4></pre>
+      <pre>npx diegohorvatti<</pre>
     </td>
   </tr>
+  <br>
   <img src="https://camo.githubusercontent.com/bc9182361235c6d7d7765e27e327225b55c68098bd8f3e63759f03418ceb4a18/68747470733a2f2f692e696d6775722e636f6d2f52636c503942372e706e67" />
 <div>
   
+<br />
 <div align="right">
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
