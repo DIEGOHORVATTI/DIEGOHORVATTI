@@ -287,7 +287,7 @@ PHP                      1 repo              █░░░░░░░░░░�
       <h4>Veja sobre min no seu terminal!</h4>
     </td>
     <td>
-      <pre>npx diegohorvatti<</pre>
+      <pre>npx diegohorvatti</pre>
     </td>
   </tr>
   <br>
