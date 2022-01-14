@@ -284,7 +284,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 <div align="center">
     <tr>
     <td>
-      <h4>Veja sobre min no seu terminal <3</h4>
+      <h4>Veja sobre min no seu terminal!</h4>
     </td>
     <td>
       <pre>npx diegohorvatti<</pre>
