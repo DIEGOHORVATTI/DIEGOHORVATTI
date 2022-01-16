@@ -20,4 +20,4 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_SHORT_INFO: false
           SHOW_PROFILE_VIEWS: false
-          LOCALE: "pt_BR"
+          LOCALE: "pt-BR"
