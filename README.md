@@ -145,16 +145,16 @@
 </div>
 <br />
 
-<h2 align="center"><img width="20px" src="https://25.media.tumblr.com/c7962f0a224f88f965e375a33953a8c5/tumblr_msh4mj2arL1scncwdo1_500.gif" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
+<h2 align="center"><img width="30px" src="https://images-ext-1.discordapp.net/external/Lh6k8AWLLV2RUihgkedXIAadm02Pfs7dg5JMCKH8fGQ/https/media.discordapp.net/attachments/925114252371578920/932632828087271424/jojo1.gif?width=405&height=444" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
 
 <table border="0">
   <tr>
     <td>
-      <p><img width="27" src="https://cdn.discordapp.com/emojis/739434367478399016.gif?size=96" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</p>
+      <p><img width="27" src="https://images-ext-2.discordapp.net/external/nggBWMg678oQXNGqUtU9RIoPqS74zaW3zmdnNkiyc1M/https/media.discordapp.net/attachments/925114252371578920/932632828317929482/jojo2.gif" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</p>
     </td>
     <td>
       <p>
-        <img width="20" src="https://cdn.discordapp.com/emojis/588639475756826624.gif" />
+        <img width="21" src="https://images-ext-1.discordapp.net/external/moJBx0I7abOhzaWdUAf08Ef0fwYAhxJ_Js0Y6iR3lU0/https/media.discordapp.net/attachments/925114252371578920/932632828561203200/jojo3.gif" />
         Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.
       </p>
     </td>
