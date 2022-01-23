@@ -204,7 +204,7 @@
 </ul>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2038%20mins-blue)
 
 **Eu sou noturno 🦉** 
 
@@ -270,7 +270,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2022 10:59:07 UTC
+ Last Updated on 23/01/2022 12:46:14 UTC
 <!--END_SECTION:waka-->
   
   
