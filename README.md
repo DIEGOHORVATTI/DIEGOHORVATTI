@@ -293,8 +293,10 @@ PHP                      1 repo              █░░░░░░░░░░�
 <div>
   
 <br />
+
 <div align="right">
+  <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg" alt="Total time coded Diego Horvatti" /></a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge" />
+    <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
   </a>
 </div>
