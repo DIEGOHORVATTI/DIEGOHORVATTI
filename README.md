@@ -67,7 +67,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%"align="center" >
-      <p><h4> ̶E̶s̶c̶r̶e̶v̶a̶ ̶a̶l̶g̶o̶ ̶n̶o̶ ̶m̶e̶u̶ ̶l̶i̶v̶r̶o̶ ̶d̶e̶ ̶v̶i̶s̶i̶t̶a̶s̶ ↴</h4></p>
+      <p><h4><strike>Escreva algo bom no meu livro de visitas</strike> ↴</h4></p>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
         align="center"
@@ -150,7 +150,8 @@
 <table border="0">
   <tr>
     <td>
-      <p><img width="27" src="https://images-ext-2.discordapp.net/external/nggBWMg678oQXNGqUtU9RIoPqS74zaW3zmdnNkiyc1M/https/media.discordapp.net/attachments/925114252371578920/932632828317929482/jojo2.gif" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e mais alguns cursos de web design e bootcamps (Rocketseat).</p>
+      <p><img width="27" src="https://images-ext-2.discordapp.net/external/nggBWMg678oQXNGqUtU9RIoPqS74zaW3zmdnNkiyc1M/https/media.discordapp.net/attachments/925114252371578920/932632828317929482/jojo2.gif" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e + alguns cursos de web design e bootcamps (Rocketseat).<br />
+&nbsp;Pretendo me especializar em Neurociência Computacional.</p>
     </td>
     <td>
       <p>
