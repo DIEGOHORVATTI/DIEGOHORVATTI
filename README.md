@@ -66,7 +66,7 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="50%"align="center" >
+    <td width="50%" align="center" >
       <p><h4><strike>Escreva algo bom no meu livro de visitas</strike> ↴</h4></p>
     <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/issues" target="blank">
       <img
@@ -85,7 +85,6 @@
     </td>
   </tr>
 </table>
-
 
 <br />
 
@@ -294,6 +293,15 @@ PHP                      1 repo              █░░░░░░░░░░�
   <br>
   <img src="https://camo.githubusercontent.com/bc9182361235c6d7d7765e27e327225b55c68098bd8f3e63759f03418ceb4a18/68747470733a2f2f692e696d6775722e636f6d2f52636c503942372e706e67" />
 <div>
+
+<br/>
+
+  <div align="center">
+    <h2>Dowload CV (curriculo)</h2>
+    <a href="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/CV.pdf" >
+       <img  width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Download.gif/1200px-Download.gif" />
+    </a>
+  </div>
   
 <br />
 
