@@ -295,9 +295,9 @@ PHP                      1 repo              █░░░░░░░░░░�
 <div>
 
 <br/>
-
+<hr>
   <div align="center">
-    <h2>Dowload CV (curriculo)</h2>
+    <h3>Dowload CV (curriculo)</h3>
     <a href="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/CV.pdf" >
        <img  width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Download.gif/1200px-Download.gif" />
     </a>
