@@ -168,7 +168,6 @@
     <p><b>➥ Idade:</b> 19y/o</p>
     <p><b>➥ Apelido:</b> Div</p>
     <p><b>➥ Hobbys:</b> Ler Mangás como se não tivese um amanhã</p>
-    <p><b>➥ Trabalhando: @superscans</b> Front-end | privited</p>
   </div>
 </div>
 
@@ -193,15 +192,6 @@
     </span>
   </div>
 </div>
-
-<h3>𝓤́𝓵𝓽𝓲𝓶𝓸𝓼 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼</h3>
-
-<ul align="center">
-  <li>🎯 Atualmente estou desenvolvendo o novo site de mangás da Scans como líder de equipe em nextjs.</li>
-  <li>
-    🔥 <a href="beta.superscans.site/" target="blank"><b>Super Scans (beta)</b></a>
-  </li>
-</ul>
   
 <!--START_SECTION:waka-->
 **Eu sou diurno 🐤** 
