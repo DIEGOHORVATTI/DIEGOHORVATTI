@@ -1,4 +1,4 @@
-name: Build and Publish to gh-pages Branch
+name: blog
 
 on:
   push:
