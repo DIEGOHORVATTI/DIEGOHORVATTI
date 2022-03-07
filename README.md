@@ -34,7 +34,7 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI"
+        src="./public/img/profile/killnode"
         alt="DIEGOHORVATTI Github Stats"
       />
     </td>
@@ -72,7 +72,7 @@
       <img
         align="center"
          width="80%"
-        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf8e37f2-61c8-448e-b18c-1235925b022a/db92sky-e7de2148-e70d-4c9f-9c3a-33418a5aaccc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmOGUzN2YyLTYxYzgtNDQ4ZS1iMThjLTEyMzU5MjViMDIyYVwvZGI5MnNreS1lN2RlMjE0OC1lNzBkLTRjOWYtOWMzYS0zMzQxOGE1YWFjY2MuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FNFobqH05MNKt9MIDOTXExyX_TpjEIigqfkTwvrgV2w"
+        src="./public/img/profile/killnode"
         alt="DIEGOHORVATTI Github Stats"
       />
      </a>
@@ -88,7 +88,7 @@
 
 <br />
 
-<h4><b>𝓣𝓮́𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓺𝓾𝓮 𝓽𝓮𝓷𝓱𝓸 𝓮𝔁𝓹𝓮𝓻𝓲𝓮̂𝓷𝓬𝓲𝓪:</b></h4>
+<h4><b><i>Técnologias que tenho experiência</i></b></h4>
 <div>
     <span>
     <img height="20" src="https://img.shields.io/badge/HTML-gree?style=for-the-badge&logo=html5&logoColor=white" />
@@ -144,7 +144,7 @@
 </div>
 <br />
 
-<h2 align="center"><img width="30px" src="./public/img/emots/jotaro_1" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
+<h2 align="center"><img width="30px" src="./public/img/emots/jotaro_1" />&nbsp;<i>Sobre mim</i></h2>
 
 <table border="0">
   <tr>
@@ -167,13 +167,13 @@
     <p><b>➥ Name:</b> Diego Horvatti</p>
     <p><b>➥ Idade:</b> 19y/o</p>
     <p><b>➥ Apelido:</b> Div</p>
-    <p><b>➥ Hobbys:</b> Ler Mangás como se não tivese um amanhã</p>
+    <p><b>➥ Hobbies:</b> Ler Mangás e Novels como se não houvesse um amanhã</p>
   </div>
 </div>
 
 <br /><br />
 <div align="center">
-  <h3><img width="20px" src="./public/img/badge/code" /> 𝓜𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓮 <3!</h3>
+  <h3><img width="20px" src="./public/img/badge/code" />&nbsp;<i>Me contate</i> </h3>
   <div>
      <span>
       <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Olla!" target="blank">
@@ -273,14 +273,16 @@ CSS                      1 repo              █░░░░░░░░░░�
 <div align="center">
     <tr>
     <td>
-      <h4>Veja sobre min no seu terminal!</h4>
+      <h4>Veja sobre mim no seu terminal!</h4>
     </td>
     <td>
       <pre>npx diegohorvatti</pre>
     </td>
   </tr>
   <br>
-  <img src="./public/img/profile/npm_div" />
+  <a href="https://www.npmjs.com/package/diegohorvatti">
+    <img src="./public/img/profile/npm_div" />
+  </a>
 <div>
 
 <br/>
