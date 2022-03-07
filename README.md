@@ -90,47 +90,56 @@
 
 <h4><b>𝓣𝓮́𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓺𝓾𝓮 𝓽𝓮𝓷𝓱𝓸 𝓮𝔁𝓹𝓮𝓻𝓲𝓮̂𝓷𝓬𝓲𝓪:</b></h4>
 <div>
-  <span>
-    <img height="20" src="./public/img/badge/HTML" />
+    <span>
+    <img height="20" src="https://img.shields.io/badge/HTML-gree?style=for-the-badge&logo=html5&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/BS" />
+    <img height="20" src=" 	https://img.shields.io/badge/Python-gree?style=for-the-badge&logo=python&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/CSS" />
+    <img height="20" src="https://img.shields.io/badge/CSS-gree?&style=for-the-badge&logo=css3&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/JQUERY" />
+    <img height="20" src="https://img.shields.io/badge/Sass-gree?style=for-the-badge&logo=sass&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/JS" />
+    <img height="20" src="https://img.shields.io/badge/JavaScript-gree?style=for-the-badge&logo=javascript&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/MONGODB" />
+    <img height="20" src="https://img.shields.io/badge/Node.js-gree?style=for-the-badge&logo=node.js&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/MYSQL" />
+    <img height="20" src="https://img.shields.io/badge/TypeScript-gree?style=for-the-badge&logo=typescript&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/MTUI" />
+    <img height="20" src="https://img.shields.io/badge/PHP-gree?style=for-the-badge&logo=php&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/NODE" />
+    <img height="20" src="https://img.shields.io/badge/Shell_Script-gree?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/PY" />
+    <img height="20" src="https://img.shields.io/badge/React-gree?style=for-the-badge&logo=react&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/REACT" />
+    <img height="20" src="https://img.shields.io/badge/Vue.js-gree?style=for-the-badge&logo=vue.js&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/SASS" />
+    <img height="20" src="https://img.shields.io/badge/Bootstrap-gree?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/SHELL" />
+    <img height="20" src="https://img.shields.io/badge/Material--UI-gree?style=for-the-badge&logo=material-ui&logoColor=white" />
   </span>
   <span>
-    <img height="20" src="./public/img/badge/TS" />
+    <img height="20" src="https://img.shields.io/badge/styled--components-gree?style=for-the-badge&logo=styled-components&logoColor=white" />
+  </span>
+  <span>
+    <img height="20" src="https://img.shields.io/badge/jQuery-gree?style=for-the-badge&logo=jquery&logoColor=white" />
+  </span>
+  <span>
+    <img height="20" src="https://img.shields.io/badge/MySQL-gree?style=for-the-badge&logo=mysql&logoColor=white" />
+  </span>
+  <span>
+    <img height="20" src="https://img.shields.io/badge/MongoDB-gree?style=for-the-badge&logo=mongodb&logoColor=white" />
   </span>
 </div>
 <br />
