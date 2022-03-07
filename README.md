@@ -305,3 +305,52 @@ CSS                      1 repo              █░░░░░░░░░░�
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
   </a>
 </div>
+
+<hr /><br />
+<h3 align="center">Inspirational references:</h3>
+
+<table border="1" align="left">
+    <tr>
+        <td>Inspired portfolio:</td>
+        <td>Generates a snake:</td>
+        <td>Waka metrics stats :</td>
+    </tr>
+    <tr>
+        <td>
+           <a href="https://github.com/arifszn">
+          <img
+            src="https://avatars.githubusercontent.com/u/45073703?v=4"
+            width="90px;" alt="Ariful Alam " />
+          <h3>Ariful Alam </h3>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/Platane">
+          <img
+            src="https://avatars.githubusercontent.com/u/1659820?v=4"
+            width="90px;" alt="Ariful Alam " />
+          <h3>Platane</h3>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/anmol098">
+          <img
+            src="https://avatars.githubusercontent.com/u/15426564?v=4"
+            width="90px;" alt="Anmol Singh" />
+          <h3>Anmol Singh</h3>
+          </a>
+        </td>
+    </tr>
+    <tr>
+      <td>
+        <a href"https://github.com/arifszn/ezprofile">arifszn/ezprofile</a>
+      </td>
+        <td>
+        <a href"https://github.com/Platane/snk">Platane/snk</a>
+      </td>
+      </td>
+        <td>
+        <a href"https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
+      </td>
+    </tr>
+</table>
