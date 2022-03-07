@@ -3,31 +3,31 @@
   <span>All Languages>>&nbsp;&nbsp;</span>
   <span>
     <a href="README_en.md">
-      <img src="https://static.todamateria.com.br/upload/ba/nd/bandeira_americana_bb.jpg" height="14"> English ★★★
+      <img src="./public/img/flags/en" height="14"> English ★★★
     </a>
   </span>
   <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
   <span>
     <a href="README_hi.md">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" height="14"> Hindi ★★★
+      <img src="./public/img/flags/hi" height="14"> Hindi ★★★
     </a>
   </span>
   <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
   <span>
     <a href="README_es.md">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" height="14"> Espanhol ★★☆
+      <img src="./public/img/flags/es" height="14"> Espanhol ★★☆
     </a>
     </span>
   <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
   <span>
    <a href="README_ch.md">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png" height="14"> Chinese ★★☆
+     <img src="./public/img/flags/ch" height="14"> Chinese ★★☆
     </a>
     </span>
 </div>
 <hr />
 
-<a href="https://discord.gg/VfVB9CP3"><img align="center" src="banner.png" /></a>
+<a href="https://discord.gg/VfVB9CP3"><img align="center" src="./public/img/profile/banner.png" /></a>
 
 <table width="100%" border="0">
   <tr>
@@ -59,7 +59,7 @@
       />
     </td>
     <td>
-      <img width="100%" border="0" align="center" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/main/div.gif" alt="Diego Horvatti" />
+      <img width="100%" border="0" align="center" src="./public/img/profile/div.gif" alt="Diego Horvatti" />
     </td>
   </tr>
 </table>
@@ -91,70 +91,61 @@
 <h4><b>𝓣𝓮́𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓺𝓾𝓮 𝓽𝓮𝓷𝓱𝓸 𝓮𝔁𝓹𝓮𝓻𝓲𝓮̂𝓷𝓬𝓲𝓪:</b></h4>
 <div>
   <span>
-    <img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img height="20" src="./public/img/badge/HTML" />
   </span>
   <span>
-    <img height="20" src=" 	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img height="20" src="./public/img/badge/BS" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img height="20" src="./public/img/badge/CSS" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img height="20" src="./public/img/badge/JQUERY" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img height="20" src="./public/img/badge/JS" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img height="20" src="./public/img/badge/MONGODB" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img height="20" src="./public/img/badge/MYSQL" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img height="20" src="./public/img/badge/MTUI" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img height="20" src="./public/img/badge/NODE" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img height="20" src="./public/img/badge/PY" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img height="20" src="./public/img/badge/REACT" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img height="20" src="./public/img/badge/SASS" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img height="20" src="./public/img/badge/SHELL" />
   </span>
   <span>
-    <img height="20" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  </span>
-  <span>
-    <img height="20" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  </span>
-  <span>
-    <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  </span>
-  <span>
-    <img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img height="20" src="./public/img/badge/TS" />
   </span>
 </div>
 <br />
 
-<h2 align="center"><img width="30px" src="https://images-ext-1.discordapp.net/external/Lh6k8AWLLV2RUihgkedXIAadm02Pfs7dg5JMCKH8fGQ/https/media.discordapp.net/attachments/925114252371578920/932632828087271424/jojo1.gif?width=405&height=444" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
+<h2 align="center"><img width="30px" src="./public/img/emots/jotaro_1" /> 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶</h2>
 
 <table border="0">
   <tr>
     <td>
-      <p><img width="27" src="https://images-ext-2.discordapp.net/external/nggBWMg678oQXNGqUtU9RIoPqS74zaW3zmdnNkiyc1M/https/media.discordapp.net/attachments/925114252371578920/932632828317929482/jojo2.gif" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e + alguns cursos de web design e bootcamps (Rocketseat).<br />
+      <p><img width="27" src="./public/img/emots/jotaro_2" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e + alguns cursos de web design e bootcamps (Rocketseat).<br />
 &nbsp;Pretendo me especializar em Neurociência Computacional.</p>
     </td>
     <td>
       <p>
-        <img width="21" src="https://images-ext-1.discordapp.net/external/moJBx0I7abOhzaWdUAf08Ef0fwYAhxJ_Js0Y6iR3lU0/https/media.discordapp.net/attachments/925114252371578920/932632828561203200/jojo3.gif" />
+        <img width="40" src="./public/img/emots/jotaro_4" />
         Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.
       </p>
     </td>
@@ -162,7 +153,7 @@
 </table>
 
 <div>
-  <img align="left" width="25%" src="https://static.wikia.nocookie.net/joke-battles/images/f/fd/Shtpost.gif/revision/latest?cb=20190501023220" />
+  <img align="left" width="25%" src="./public/img/emots/jotaro_3" />
   <div align="left">
     <p><b>➥ Name:</b> Diego Horvatti</p>
     <p><b>➥ Idade:</b> 19y/o</p>
@@ -171,24 +162,24 @@
   </div>
 </div>
 
-<br />
+<br /><br /><br /><br /><br />
 
 <div align="center">
-  <h3><img width="20px" src="https://daily-dev-tips.com/images/logo.png" /> 𝓜𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓮 <3!</h3>
+  <h3><img width="20px" src="./public/img/badge/code" /> 𝓜𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓮 <3!</h3>
   <div>
     <span>
-      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!%20Vamos%20trocar%20uma%20id%C3%A9ia?%20Escreva%20seu%20nome%20por%20favor." target="blank">
-        <img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!." target="blank">
+        <img height="30" src="./public/img/badge/whatsapp" />
       </a>
     </span>
     <span>
-      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="./public/img/badge/GMAIL" /></a>
     </span>
     <span>
-      <a href="https://www.linkedin.com/in/diego-horvatti/" target="blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/diego-horvatti/" target="blank"><img height="30" src="./public/img/badge/LINKDIN" /></a>
     </span>
     <span>
-      <a href="https://discord.gg/rRP7RYnRxf" target="blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank" /></a>
+      <a href="https://discord.gg/rRP7RYnRxf" target="blank"><img height="30" src="./public/img/badge/DISCORD" target="blank" /></a>
     </span>
   </div>
 </div>
@@ -280,21 +271,22 @@ CSS                      1 repo              █░░░░░░░░░░�
     </td>
   </tr>
   <br>
-  <img src="https://camo.githubusercontent.com/bc9182361235c6d7d7765e27e327225b55c68098bd8f3e63759f03418ceb4a18/68747470733a2f2f692e696d6775722e636f6d2f52636c503942372e706e67" />
+  <img src="./public/img/profile/npm_div" />
 <div>
 
 <br/>
 <hr>
   <div align="center">
     <h3>Dowload CV (curriculo)</h3>
-    <a href="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/CV.pdf" >
-       <img  width="15%" src="dowload_cv.png" />
+    <a href="./public/docs/CV.pdf" >
+       <img  width="15%" src="./public/img/profile/dowload_cv.png" />
     </a>
   </div>
   
 <br />
 
 <div align="right">
+  <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
   <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg" alt="Total time coded Diego Horvatti" /></a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
