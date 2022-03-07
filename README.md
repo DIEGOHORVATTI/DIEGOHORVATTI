@@ -309,7 +309,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <hr /><br />
 <h3 align="center">Inspirational references:</h3>
 
-<table border="1" align="center">
+<table align="center">
     <tr>
         <td>Inspired portfolio:</td>
         <td>Generates a snake:</td>
