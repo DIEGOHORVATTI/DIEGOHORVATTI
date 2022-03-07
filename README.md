@@ -271,7 +271,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 </div>
   
 <div align="center">
-    <tr>
+  <tr>
     <td>
       <h4>Veja sobre mim no seu terminal!</h4>
     </td>
@@ -309,7 +309,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <hr /><br />
 <h3 align="center">Inspirational references:</h3>
 
-<table border="1" align="left">
+<table border="1" align="center">
     <tr>
         <td>Inspired portfolio:</td>
         <td>Generates a snake:</td>
@@ -317,7 +317,7 @@ CSS                      1 repo              █░░░░░░░░░░�
     </tr>
     <tr>
         <td>
-           <a href="https://github.com/arifszn">
+           <a href="https://github.com/arifszn/ezprofile">
           <img
             src="https://avatars.githubusercontent.com/u/45073703?v=4"
             width="90px;" alt="Ariful Alam " />
@@ -325,7 +325,7 @@ CSS                      1 repo              █░░░░░░░░░░�
           </a>
         </td>
         <td>
-          <a href="https://github.com/Platane">
+          <a href="https://github.com/Platane/snk">
           <img
             src="https://avatars.githubusercontent.com/u/1659820?v=4"
             width="90px;" alt="Ariful Alam " />
@@ -333,24 +333,12 @@ CSS                      1 repo              █░░░░░░░░░░�
           </a>
         </td>
         <td>
-          <a href="https://github.com/anmol098">
+          <a href="https://github.com/anmol098/waka-readme-stats">
           <img
             src="https://avatars.githubusercontent.com/u/15426564?v=4"
             width="90px;" alt="Anmol Singh" />
           <h3>Anmol Singh</h3>
           </a>
         </td>
-    </tr>
-    <tr>
-      <td>
-        <a href"https://github.com/arifszn/ezprofile">arifszn/ezprofile</a>
-      </td>
-        <td>
-        <a href"https://github.com/Platane/snk">Platane/snk</a>
-      </td>
-      </td>
-        <td>
-        <a href"https://github.com/anmol098/waka-readme-stats">anmol098/waka-readme-stats</a>
-      </td>
     </tr>
 </table>
