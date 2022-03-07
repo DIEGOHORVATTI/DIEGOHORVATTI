@@ -171,28 +171,28 @@
   </div>
 </div>
 
-<br /><br /><br /><br /><br />
-
+<br /><br />
 <div align="center">
   <h3><img width="20px" src="./public/img/badge/code" /> 𝓜𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓮 <3!</h3>
   <div>
-    <span>
-      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Ola!." target="blank">
-        <img height="30" src="./public/img/badge/whatsapp" />
+     <span>
+      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Olla!" target="blank">
+        <img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
       </a>
     </span>
     <span>
-      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="./public/img/badge/GMAIL" /></a>
+      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </span>
     <span>
-      <a href="https://www.linkedin.com/in/diego-horvatti/" target="blank"><img height="30" src="./public/img/badge/LINKDIN" /></a>
+      <a href="https://www.linkedin.com/in/diego-horvatti/" target="blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </span>
     <span>
-      <a href="https://discord.gg/rRP7RYnRxf" target="blank"><img height="30" src="./public/img/badge/DISCORD" target="blank" /></a>
+      <a href="https://discord.gg/rRP7RYnRxf" target="blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank" /></a>
     </span>
   </div>
 </div>
-  
+<br /><br /><br />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2039%20mins-blue)
 
@@ -295,7 +295,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 <br />
 
 <div align="right">
+ <a href="https://github.com/DIEGOHORVATTI">
   <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
+  </a>
   <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg" alt="Total time coded Diego Horvatti" /></a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
