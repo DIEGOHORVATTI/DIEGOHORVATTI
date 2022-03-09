@@ -34,7 +34,7 @@
     <td>
       <img
         align="center"
-        src="./public/img/profile/killnode"
+        src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI"
         alt="DIEGOHORVATTI Github Stats"
       />
     </td>
@@ -305,40 +305,3 @@ CSS                      1 repo              █░░░░░░░░░░�
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
   </a>
 </div>
-
-<hr /><br />
-<h3 align="center">Inspirational references:</h3>
-
-<table align="center">
-    <tr>
-        <td>Inspired portfolio:</td>
-        <td>Generates a snake:</td>
-        <td>Waka metrics stats :</td>
-    </tr>
-    <tr>
-        <td>
-           <a href="https://github.com/arifszn/ezprofile">
-          <img
-            src="https://avatars.githubusercontent.com/u/45073703?v=4"
-            width="90px;" alt="Ariful Alam " />
-          <h3>Ariful Alam </h3>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/Platane/snk">
-          <img
-            src="https://avatars.githubusercontent.com/u/1659820?v=4"
-            width="90px;" alt="Ariful Alam " />
-          <h3>Platane</h3>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/anmol098/waka-readme-stats">
-          <img
-            src="https://avatars.githubusercontent.com/u/15426564?v=4"
-            width="90px;" alt="Anmol Singh" />
-          <h3>Anmol Singh</h3>
-          </a>
-        </td>
-    </tr>
-</table>
