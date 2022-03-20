@@ -223,18 +223,16 @@ domingo      27 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Fuso horário: America/Campo_Grande
 
 💬 Linguagens de programação: 
-JavaScript               1 hr 24 mins        ██████████████░░░░░░░░░░░   57.96% 
-HTML                     1 hr 1 min          ██████████░░░░░░░░░░░░░░░   41.94% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 🐱‍💻 Projetos: 
-nodejs                   2 hrs 25 mins       █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 ```
 
@@ -251,7 +249,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2022 01:15:23 UTC
+ Last Updated on 20/03/2022 01:21:59 UTC
 <!--END_SECTION:waka-->
   
   
