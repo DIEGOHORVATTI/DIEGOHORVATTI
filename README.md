@@ -194,6 +194,8 @@
 <br /><br /><br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2039%20mins-blue)
+
 **Eu sou noturno 🦉** 
 
 ```text
@@ -249,7 +251,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2022 01:21:59 UTC
+ Last Updated on 21/03/2022 01:24:45 UTC
 <!--END_SECTION:waka-->
   
   
