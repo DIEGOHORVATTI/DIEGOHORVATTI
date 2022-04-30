@@ -292,7 +292,7 @@ CSS                      1 repo              █░░░░░░░░░░�
   <h3>Dowload CV (curriculo)</h3>
   <td>
     <a href="https://github.com/DIEGOHORVATTI/IFC" >
-    <img width="100%" src="./public/logoIFC.png" />
+    <img width="90%" src="./public/logoIFC.png" />
   </a>
   </td>
   <td>
