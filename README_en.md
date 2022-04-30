@@ -225,13 +225,13 @@
   <h3>Dowload CV (curriculo)</h3>
   <td>
     <a href="https://github.com/DIEGOHORVATTI/IFC" >
-    <img width="60%" src="./public/logoIFC.png" />
+    <img width="90%" src="./public/logoIFC.png" />
   </a>
   </td>
   <td>
     <a href="./public/docs/CV.pdf" >
       <br />
-      <img  width="60%" src="./public/img/profile/dowload_cv.png" />
+      <img  width="100%" src="./public/img/profile/dowload_cv.png" />
   </a>
   </td>
 </tr>
