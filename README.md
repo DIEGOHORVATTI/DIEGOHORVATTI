@@ -193,7 +193,7 @@
 <br /><br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2058%20mins-blue)
 
 **Eu sou noturno 🦉** 
 
@@ -259,7 +259,7 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2022 01:55:23 UTC
+ Last Updated on 07/06/2022 01:50:14 UTC
 <!--END_SECTION:waka-->
   
   
