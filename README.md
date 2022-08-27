@@ -12,11 +12,14 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
+        src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
       />
     </td>
   </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <table width="100%" border="0">
   <tr>
