@@ -18,8 +18,13 @@
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img
+        width="100%"
+        border="0"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact"
+        alt="Diego Horvatti"
+      />
 
 <table width="100%" border="0">
   <tr>
