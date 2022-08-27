@@ -18,13 +18,6 @@
   </tr>
 </table>
 
-<img
-        width="100%"
-        border="0"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact"
-        alt="Diego Horvatti"
-      />
 
 <table width="100%" border="0">
   <tr>
@@ -33,7 +26,7 @@
         width="100%"
         border="0"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=L̪̮͉͖̜̙̈́̀̌́͌͑͆̑̒͗̅̋i̠̞̯͈̤̥̩͓̣͐͑̋͂̋̆͗̽̓n̖̖͔̣͈͍̩͖̟̦͇̈́̆̈́̅͛̑ḡ̩̥͎͇̰͍͙̜͙̖̃͗͑̉̓͋̚̚u͇͎̝̠̩̜̫̝͑̒̈́͋a͖̤̙͓̟͙͕͑̀͋̊́̀̔g̖̥̮̜͎͎̯͖͙̐͗̎̾̊̀̎e̖͈͔̲̰̟̬̳͉͇̳͐́͆̾͆͊̏̏̅͋̌̃n̙̘̘̲͔͕̳̝͎͎̙̮̏̀̎̆̅̃s̩̣̪̟̎͗́͂͋̄̿̅ͅͅ m͔̲̮̬̠̌͑̑́͛͗̔̉̚á̗͍̩̫̖̳͈̲͋̿̑͑̀i̭͍̜͖̥̮̞̮̘͉͐͂͌͒̈́̿ͅs̲̳̰̥̔̀̌̒́͒͐͐̈̂̚ u̝͕̱̟̓͑̒͂͋̋s͙̝͓̞͍̆̔̈͗̎̈̿̽̂̀̌ã̰̖͇͚̣̱͐̅̓̔ͅd̟͈͖͎͎͍̭͉͙́͊̈̋̽͆ả͕̥̗͙̫̂͗̀̒̾̂̆̆́ͅͅs͎͈̰͉͛̃̒́̈́̓"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=ε(´｡•᎑•`)っ 💕 Linguagens mais usadas"
         alt="Diego Horvatti"
       />
     </td>
@@ -128,7 +121,7 @@
 </div>
 <br />
 
-<h2 align="center"><img width="30px" src="./public/img/emots/jotaro_1" />&nbsp;<i>Sobre mim</i></h2>
+<h2 align="center"><img width="30px" src="./public/img/emots/jotaro_1" />&nbsp;<i>Sobre mim ヘ( ^o^)ノ＼(^_^ )</i></h2>
 
 <table border="0">
   <tr>
