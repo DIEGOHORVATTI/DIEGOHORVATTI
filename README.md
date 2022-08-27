@@ -294,3 +294,7 @@ C                        3 repos             ██░░░░░░░░░�
   </a> 
   -->
 </div>
+
+<hr/>
+
+<img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
