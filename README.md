@@ -1,32 +1,3 @@
-<hr />
-<div align="center">
-  <span>All Languages>>&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_en.md">
-      <img src="./public/img/flags/en" height="14"> English ★★★
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_hi.md">
-      <img src="./public/img/flags/hi" height="14"> Hindi ★★★
-    </a>
-  </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-    <a href="README_es.md">
-      <img src="./public/img/flags/es" height="14"> Espanhol ★★☆
-    </a>
-    </span>
-  <span>&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-  <span>
-   <a href="README_ch.md">
-     <img src="./public/img/flags/ch" height="14"> Chinese ★★☆
-    </a>
-    </span>
-</div>
-<hr />
-
 <a href="https://discord.gg/VfVB9CP3"><img align="center" src="./public/img/profile/banner.png" /></a>
 
 <table width="100%" border="0">
@@ -89,8 +60,14 @@
 
 <h4><b><i>Técnologias que tenho experiência</i></b></h4>
 <div>
-    <span>
-    <img height="20" src="https://img.shields.io/badge/HTML-gree?style=for-the-badge&logo=html5&logoColor=white" />
+  <span>
+    <img height="20" src="https://img.shields.io/badge/C-gree?style=for-the-badge&logo=C&logoColor=white" />
+  </span>
+  <span>
+    <img height="20" src="https://img.shields.io/badge/C%2B%2B-gree?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </span>
+  <span>
+    <img height="20" src="https://img.shields.io/badge/Java-gree?style=for-the-badge&logo=java&logoColor=white" />
   </span>
   <span>
     <img height="20" src=" 	https://img.shields.io/badge/Python-gree?style=for-the-badge&logo=python&logoColor=white" />
@@ -148,13 +125,8 @@
 <table border="0">
   <tr>
     <td>
-      <p><img width="27" src="./public/img/emots/jotaro_2" /> Olá, eu sou um desenvolvedor full-stack, estudo Ciências da Computação e + alguns cursos de web design e bootcamps (Rocketseat).<br />
-&nbsp;Pretendo me especializar em Neurociência Computacional.</p>
-    </td>
-    <td>
-      <p>
         <img width="40" src="./public/img/emots/jotaro_4" />
-        Atualmente estou me aprofundando até a fossas das marianas em ReactJS, NextJS e Sass/scss.
+        Atualmente estou estudando c, c++, python+arduino, python e c++ com qt5, sql, java e .lua
       </p>
     </td>
   </tr>
@@ -163,8 +135,8 @@
 <div>
   <img align="left" width="25%" src="./public/img/emots/jotaro_3" />
   <div align="left">
-    <p><b>➥ Name:</b> Diego Horvatti</p>
-    <p><b>➥ Idade:</b> 19y/o</p>
+    <p><b>➥ Nome:</b> Diego Horvatti</p>
+    <p><b>➥ Idade:</b> 19 y</p>
     <p><b>➥ Apelido:</b> Div</p>
     <p><b>➥ Hobbies:</b> Ler Mangás e Novels como se não houvesse um amanhã</p>
   </div>
@@ -310,7 +282,10 @@ C                        3 repos             ██░░░░░░░░░�
   <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
   </a>
   <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
+
+  <!-- 
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/DIEGOHORVATTI/DIEGOHORVATTI" alt="Visitors badge Diego Horvatti" />
-  </a>
+  </a> 
+  -->
 </div>
