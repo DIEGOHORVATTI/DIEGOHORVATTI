@@ -26,7 +26,7 @@
         width="100%"
         border="0"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=Linguagens mais usadas"
         alt="Diego Horvatti"
       />
     </td>
