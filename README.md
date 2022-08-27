@@ -281,10 +281,12 @@ C                        3 repos             ██░░░░░░░░░�
 </tr>
 </table>
 <br />
+<hr/>
 
+<img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
 <div align="right">
- <a href="https://github.com/DIEGOHORVATTI">
-  <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
+  <a href="https://github.com/DIEGOHORVATTI">
+    <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
   </a>
   <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
 
@@ -294,7 +296,3 @@ C                        3 repos             ██░░░░░░░░░�
   </a> 
   -->
 </div>
-
-<hr/>
-
-<img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
