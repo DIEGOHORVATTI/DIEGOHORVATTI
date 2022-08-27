@@ -136,10 +136,14 @@
 <div>
   <img align="left" width="25%" src="./public/img/emots/jotaro_3" />
   <div align="left">
-    <p><b>➥ Nome:</b> Diego Horvatti</p>
-    <p><b>➥ Idade:</b> 19 y</p>
-    <p><b>➥ Apelido:</b> Div</p>
-    <p><b>➥ Hobbies:</b> Ler Mangás e Novels como se não houvesse um amanhã</p>
+  <p>
+  <b>typedef</b> <i>struct</i>{<br/>
+  &nbsp;&nbsp;&nbsp;<b>char</b> Nome = "Diego Horvatti"<br/>
+  &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 19<br/>
+  &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Div"<br/>
+  &nbsp;&nbsp;&nbsp;<b>char</b> Hobbies = "Mangás, Novels, Basquete"<br/>
+  }sEstudant;<br/>
+  </p>
   </div>
 </div>
 
