@@ -170,7 +170,7 @@
 <br /><br /><br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2048%20mins-blue)
 
 **Eu sou noturno 🦉** 
 
@@ -234,7 +234,7 @@ C++                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2022 02:30:22 UTC
+ Last Updated on 24/09/2022 02:32:37 UTC
 <!--END_SECTION:waka-->
   
   
