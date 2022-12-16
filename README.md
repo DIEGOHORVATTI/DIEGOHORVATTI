@@ -127,7 +127,7 @@
   <tr>
     <td>
         <img width="40" src="./public/img/emots/jotaro_4" />
-        Atualmente estou estudando c, c++, python+arduino, python e c++ com qt5, sql, java e .lua
+        Atualmente cursando ciência da computação e estudando Reactjs com styledComponent, Nextjs e Arduino também estágio na @Leadeasy <a href="https://github.com/div-leadeasy">div-leadeasy</a>
       </p>
     </td>
   </tr>
@@ -139,7 +139,7 @@
   <p>
   <b>typedef</b> <i>struct</i>{<br/>
   &nbsp;&nbsp;&nbsp;<b>char</b> Nome = "Diego Horvatti"<br/>
-  &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 19<br/>
+  &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 20<br/>
   &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Div"<br/>
   &nbsp;&nbsp;&nbsp;<b>char</b> Hobbies = "Mangás, Novels, Basquete"<br/>
   }sEstudant;<br/>
@@ -243,7 +243,7 @@ CSS                      3 repos             ██░░░░░░░░░�
   
 <div align="center" width="100%">
   <a href="#">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
     <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </a>
 </div>
