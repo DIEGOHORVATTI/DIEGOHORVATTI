@@ -1,6 +1,3 @@
-<h1 align="center">Ohhhhhhhhhhhhhhhhhhhhhhhhhh myyyyyyyyyyyyyyyyy gooooooooooooooooooooooooood</h1>
-<img align="center" width="100%" src="https://i.pinimg.com/736x/c0/f6/ee/c0f6ee80a5c7eb475b9dbf5d19ee200a.jpg" />
-
 <a href="https://discord.gg/VfVB9CP3"><img align="center" src="./public/img/profile/banner.png" /></a>
 
 <table width="100%" border="0">
@@ -25,10 +22,10 @@
 <table width="100%" border="0">
   <tr>
     <td>
-     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
     </td>
      <td>
-     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
     </td>
   </tr>
 </table>
@@ -301,3 +298,5 @@ CSS                      3 repos             ██░░░░░░░░░�
   <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
   </div>
 <br/>
+<h1 align="center">Ohhhhhhhhhhhhhhhhhhhhhhhhhh myyyyyyyyyyyyyyyyy gooooooooooooooooooooooooood</h1>
+<img align="center" width="100%" src="https://i.pinimg.com/736x/c0/f6/ee/c0f6ee80a5c7eb475b9dbf5d19ee200a.jpg" />
