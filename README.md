@@ -1,3 +1,6 @@
+<h1 align="center">Ohhhhhhhhhhhhhhhhhhhhhhhhhh myyyyyyyyyyyyyyyyy gooooooooooooooooooooooooood</h1>
+<img align="center" width="100%" src="https://i.pinimg.com/736x/c0/f6/ee/c0f6ee80a5c7eb475b9dbf5d19ee200a.jpg" />
+
 <a href="https://discord.gg/VfVB9CP3"><img align="center" src="./public/img/profile/banner.png" /></a>
 
 <table width="100%" border="0">
@@ -9,10 +12,39 @@
         alt="DIEGOHORVATTI Github Stats"
       />
     </td>
+     <td>
+     <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=div-leadeasy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI"
+        alt="Div Leadeasy Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0">
+  <tr>
     <td>
-      <img
+     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    </td>
+     <td>
+     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%" border="0">
+  <tr>
+    <td>
+       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
+      />
+    </td>
+     <td>
+       <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com?user=div-leadeasy&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F"
       />
     </td>
   </tr>
@@ -26,7 +58,7 @@
         width="100%"
         border="0"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=ε(´｡•᎑•`)っ%20💕Linguagens%20mais%20usadas"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOHORVATTI&layout=compact&hide_border=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&custom_title=Linguagens%20mais%20usadas"
         alt="Diego Horvatti"
       />
     </td>
@@ -241,14 +273,6 @@ CSS                      3 repos             ██░░░░░░░░░�
  Last Updated on 27/12/2022 01:23:58 UTC
 <!--END_SECTION:waka-->
   
-  
-<div align="center" width="100%">
-  <a href="#">
-    <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
-    <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
-  </a>
-</div>
-  
 <div align="center">
   <tr>
     <td>
@@ -263,34 +287,17 @@ CSS                      3 repos             ██░░░░░░░░░�
     <img src="./public/img/profile/npm_div" />
   </a>
 <div>
-<br/>
-<hr>
 
-<table width="100%" border="0">
-<tr>
-  <h3>Dowload CV (curriculo)</h3>
-  <td>
-    <a href="https://github.com/DIEGOHORVATTI/IFC" >
-    <img width="90%" src="./public/logoIFC.png" />
-  </a>
-  </td>
-  <td>
-    <a href="./public/docs/CV.pdf" >
-      <br />
-      <img  width="100%" src="./public/img/profile/dowload_cv.png" />
-  </a>
-  </td>
-</tr>
-</table>
-<br />
-<hr/>
-
-<img align="center" width="40%" src="./public/img/ciencia.gif" alt="Ciência da computação art pixel"/>
-<div align="right">
+  <br/><hr><br/>
+  
+<img align="center" src="https://count.getloli.com/get/@DIEGOHORVATTI.github.readme?theme=rule34" alt="Ciência da computação art pixel"/>
+<div align="center">
   <a href="https://github.com/DIEGOHORVATTI">
     <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
   </a>
   <a href="https://wakatime.com/@Div"><img src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social" alt="Total time coded Diego Horvatti" /></a>
 
   <img src="https://komarev.com/ghpvc/?username=DIEGOHORVATTI&color=27DD00" alt="Visitors badge Diego Horvatti" />
-</div>
+  <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg" alt="snake - Diego Horvatti" />
+  </div>
+<br/>
