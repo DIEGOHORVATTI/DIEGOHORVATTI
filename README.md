@@ -181,18 +181,18 @@
   <h3><img width="20px" src="./public/img/badge/code" />&nbsp;<i>Me contate</i> </h3>
   <div>
      <span>
-      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=Olla!" target="blank">
+      <a href="https://api.whatsapp.com/send?phone=5567984541223&text=hello%20world" target="blank">
         <img height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
       </a>
     </span>
     <span>
-      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://www.instagram.com/diego.horvatti" target="blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank" /></a>
     </span>
     <span>
       <a href="https://www.linkedin.com/in/diego-horvatti/" target="blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </span>
     <span>
-      <a href="https://discord.gg/rRP7RYnRxf" target="blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank" /></a>
+      <a href="mailto:d.horvattid@gmail.com" target="blank"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </span>
   </div>
 </div>
