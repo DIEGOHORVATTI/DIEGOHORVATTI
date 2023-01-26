@@ -1,9 +1,9 @@
+<img width="100%" height="50px" src="https://i.imgur.com/Tz1iW35.gif" /><br/>
 <table border="0">
   <tr>
     <td>
-      <img width="40" src="./public/img/emots/jotaro_4" />
-      Atualmente cursando ciência da computação e estudando Reactjs com styledComponent, Nextjs e Arduino também estágio
-      na @Leadeasy <a href="https://github.com/div-leadeasy">div-leadeasy</a>
+      <p>
+      Estudante de Ciência da Computação Instituto Federal de Educação Ciência e Tecnologia Catarinense  <a href="http://videira.ifc.edu.br">@IFC</a><br/> Estágio pela <a href="leadeasy.com.br/">@Leadeasy</a><br/> Github profissional: <a href="https://github.com/div-leadeasy">@div-leadeasy</a>
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg"
+  <img width="100%"  src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg"
     alt="snake - Diego Horvatti" />
 </div>
 
