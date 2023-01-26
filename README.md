@@ -3,7 +3,7 @@
   <tr>
     <td>
       <p>
-      Estudante de Ciência da Computação Instituto Federal de Educação Ciência e Tecnologia Catarinense  <a href="http://videira.ifc.edu.br">@IFC</a><br/> Estágio pela <a href="leadeasy.com.br/">@Leadeasy</a><br/> Github profissional: <a href="https://github.com/div-leadeasy">@div-leadeasy</a>
+      Estudante de Ciência da Computação Instituto Federal de Educação Ciência e Tecnologia Catarinense  <a href="http://videira.ifc.edu.br">@IFC</a><br/> Estágiario pela <a href="leadeasy.com.br/">@Leadeasy</a><br/> Github profissional: <a href="https://github.com/div-leadeasy">@div-leadeasy</a>
       </p>
     </td>
   </tr>
