@@ -1,10 +1,3 @@
-<style>
-  body {
-    background-color: #000;
-    color: white;
-  }
-</style>
-
 <img width="100%" height="50px"
   src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" /><br />
 
@@ -231,5 +224,5 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <img width="100%" border="0" align="center"
-  src="https://64.media.tumblr.com/9545dd89e37f3e6b68cfa51d18620531/2e4485f3f60aa6a7-a4/s540x810/e9de97f48f151e17cf4731ed8790c667936eb63d.gifv"
+  src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/jojo_1.gif"
   alt="Diego Horvatti" />
