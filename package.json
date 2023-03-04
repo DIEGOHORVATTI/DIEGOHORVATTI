@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "prettierrc": "^0.0.0-5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/eslint-parser": "^7.19.1",
+    "eslint": "^8.35.0"
+  }
+}

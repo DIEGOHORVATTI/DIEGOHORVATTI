@@ -1,9 +1,21 @@
-<img width="100%" height="50px" src="https://i.imgur.com/Tz1iW35.gif" /><br/>
+<style>
+  body {
+    background-color: #000;
+    color: white;
+  }
+</style>
+
+<img width="100%" height="50px"
+  src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" /><br />
+
 <table border="0">
   <tr>
     <td>
       <p>
-      Estudante de Ciência da Computação <a href="http://videira.ifc.edu.br">@Instituto Federal de Educação Ciência e Tecnologia Catarinense</a><br/> Estágiario pela <a href="leadeasy.com.br/">@Leadeasy</a><br/> Github profissional: <a href="https://github.com/div-leadeasy">@div-leadeasy</a>
+        Estudante de Ciência da Computação <a href="http://videira.ifc.edu.br">@Instituto Federal de Educação
+          Ciência e
+          Tecnologia Catarinense</a><br /> Estágiario pela <a href="leadeasy.com.br/">@Leadeasy</a><br /> Github
+        profissional: <a href="https://os.appfiner.com.br">@div-leadeasy</a>
       </p>
     </td>
   </tr>
@@ -24,19 +36,20 @@
 </div>
 
 <br /><br />
+
 <div align="center">
   <div align="center">
-  <img src="https://count.getloli.com/get/@DIEGOHORVATTI.github.readme?theme=rule34"
-    alt="Ciência da computação art pixel" />
-</div>
-<div align="center">
-  <a href="https://github.com/DIEGOHORVATTI">
-    <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
-  </a>
-  <a href="https://wakatime.com/@Div"><img
-      src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social"
-      alt="Total time coded Diego Horvatti" /></a>
-  <img src="https://komarev.com/ghpvc/?username=DIEGOHORVATTI&color=27DD00" alt="Visitors badge Diego Horvatti" />
+    <img src="https://count.getloli.com/get/@DIEGOHORVATTI.github.readme?theme=rule34"
+      alt="Ciência da computação art pixel" />
+  </div>
+  <div align="center">
+    <a href="https://github.com/DIEGOHORVATTI">
+      <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
+    </a>
+    <a href="https://wakatime.com/@Div"><img
+        src="https://wakatime.com/badge/user/b06c7b17-30bc-4294-8c5c-45bfe2a45f9f.svg?style=social"
+        alt="Total time coded Diego Horvatti" /></a>
+    <img src="https://komarev.com/ghpvc/?username=DIEGOHORVATTI&color=27DD00" alt="Visitors badge Diego Horvatti" />
   </div>
   <div>
     <span>
@@ -62,51 +75,37 @@
 </div>
 
 <div align="center">
-  <img width="100%"  src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg"
+  <img width="100%" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg"
     alt="snake - Diego Horvatti" />
 </div>
 
 <table width="100%" border="0">
   <tr>
-    <td>
-      <img align="center"
+    <td width="50%">
+      <img width="100%"
         src="https://github-readme-stats.vercel.app/api?username=DIEGOHORVATTI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=DIEGO-HORVATTI"
         alt="DIEGOHORVATTI Github Stats" />
     </td>
-    <td>
-      <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=div-leadeasy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=27DD00&icon_color=27DD00&text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Div-Leadeasy"
-        alt="Div Leadeasy Github Stats" />
+    <td width="50%">
+      <img width="100%"
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff"
+        alt="DIEGOHORVATTI Github Stats" />
     </td>
   </tr>
 </table>
 
 <table width="100%" border="0">
   <tr>
-    <td>
-      <img width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
+    <td width="50%" align="center">
+      <img width="50%" border="0" align="center"
+        src="https://i.pinimg.com/originals/d6/32/1e/d6321ee80ae48ac419b5e829363ff399.gif" alt="Diego Horvatti" />
     </td>
-    <td>
-      <img width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff" />
-    </td>
-  </tr>
-</table>
-
-<table width="100%" border="0">
-  <tr>
-    <td>
+    <td width="50%">
       <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com?user=DIEGOHORVATTI&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F" />
     </td>
-    <td>
-      <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com?user=div-leadeasy&theme=city-lights&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=25DD00&ring=00DD00&dates=34DD00&currStreakNum=DDDDDD&fire=27DD00&sideNums=03DD00&currStreakLabel=DDDDDD&sideLabels=9F9F9F" />
-    </td>
   </tr>
 </table>
-
 
 <table width="100%" border="0">
   <tr>
@@ -209,65 +208,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C493%20hrs%2033%20mins-blue)
-
-**Eu sou noturno 🦉** 
-
-```text
-🌞 Manhã                  125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌆 Tarde                  212 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-🌃 Noite                  243 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌙 Madrugada              161 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-```
-📅 **Sou mais produtivo em Domingo** 
-
-```text
-Segunda-Feira            99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Terça-Feira              63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Quarta-Feira             121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Quinta-Feira             112 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Sexta-Feira              95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Sábado                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Domingo                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-```
-
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Campo_Grande
-
-💬 Linguagens de programação: 
-sh                       6 hrs 13 mins       █████████████████████████   100.00 % 
-
-🔥 Editores: 
-Zsh                      6 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projetos: 
-biometria_arduino_website2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
-Terminal                 1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-leadeasy-webclient       1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-user-linux-defult        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-
-💻 Sistema operacional: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-**Eu geralmente programo em Shell** 
-
-```text
-Shell                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-SCSS                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
- Last Updated on 04/03/2023 01:35:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
@@ -279,12 +219,17 @@ CSS                      3 repos             ██░░░░░░░░░�
       <pre>npx diegohorvatti</pre>
     </td>
   </tr>
+
   <br>
   <a href="https://www.npmjs.com/package/diegohorvatti">
     <img src="./public/img/profile/npm_div" />
   </a>
-<div>
+</div>
 
-<br />
 <h1 align="center">Ohhhhhhhhhhhhhhhhhhhhhhhhhh myyyyyyyyyyyyyyyyy gooooooooooooooooooooooooood</h1>
 <img align="center" width="100%" src="https://i.pinimg.com/736x/c0/f6/ee/c0f6ee80a5c7eb475b9dbf5d19ee200a.jpg" />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img width="100%" border="0" align="center"
+  src="https://64.media.tumblr.com/9545dd89e37f3e6b68cfa51d18620531/2e4485f3f60aa6a7-a4/s540x810/e9de97f48f151e17cf4731ed8790c667936eb63d.gifv"
+  alt="Diego Horvatti" />
