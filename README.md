@@ -32,7 +32,7 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://count.getloli.com/get/@DIEGOHORVATTI.github.readme?theme=rule34"
+    <img src="https://count.nekooftheabyss.moe/get/DIEGOHORVATTI/img?theme=rule34"
       alt="Ciência da computação art pixel" />
   </div>
   <div align="center">
