@@ -7,8 +7,7 @@
       <p>
         Estudante de Ciência da Computação <a href="http://videira.ifc.edu.br">@Instituto Federal de Educação
           Ciência e
-          Tecnologia Catarinense</a><br /> Estágiario pela <a href="leadeasy.com.br/">@Leadeasy</a><br /> Github
-        profissional: <a href="https://os.appfiner.com.br">@div-leadeasy</a>
+          Tecnologia Catarinense</a><br /> Desenvolvidor de software <a href="https://os.appfiner.com.br">@Mult Foco - App Finner</a><br />
       </p>
     </td>
   </tr>
