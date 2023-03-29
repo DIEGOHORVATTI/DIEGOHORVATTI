@@ -80,7 +80,7 @@
     </td>
     <td width="50%">
       <img width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=div-leadeasy&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff"
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff"
         alt="DIEGOHORVATTI Github Stats" />
     </td>
   </tr>
