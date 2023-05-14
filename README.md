@@ -31,10 +31,6 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://count.nekooftheabyss.moe/get/DIEGOHORVATTI/img?theme=rule34"
-      alt="Ciência da computação art pixel" />
-  </div>
-  <div align="center">
     <a href="https://github.com/DIEGOHORVATTI">
       <img src="https://img.shields.io/badge/DIEGOHORVATTI-©DIV-whit">
     </a>
