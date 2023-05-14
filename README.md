@@ -17,12 +17,12 @@
   <img align="left" width="25%" src="./public/img/emots/jotaro_3" />
   <div align="left">
     <p>
-      <b>typedef</b> <i>struct</i>{<br />
-      &nbsp;&nbsp;&nbsp;<b>char</b> Nome = "Diego Horvatti"<br />
-      &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 20<br />
-      &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Div"<br />
-      &nbsp;&nbsp;&nbsp;<b>char</b> Hobbies = "Mangás, Novels, Basquete"<br />
-      }sEstudant;<br />
+      <b>typedef</b> <i>struct </i>{<br />
+      &nbsp;&nbsp;&nbsp;<b>char</b> Nome = "Diego Horvatti";<br />
+      &nbsp;&nbsp;&nbsp;<b>int</b> Idade = 20;<br />
+      &nbsp;&nbsp;&nbsp;<b>char</b> Apelido = "Div";<br />
+      &nbsp;&nbsp;&nbsp;<b>char</b> Hobbies = "Mangás, Novels, Basquete";<br />
+      } StudentItems;<br />
     </p>
   </div>
 </div>
