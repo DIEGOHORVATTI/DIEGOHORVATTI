@@ -76,7 +76,7 @@
     </td>
     <td width="50%">
       <img width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=DIEGOHORVATTI&hide_title=true&hide_border=true&bg_color=0d1117&color=27DD00&line=27DD00&point=fff"
         alt="DIEGOHORVATTI Github Stats" />
     </td>
   </tr>
@@ -271,16 +271,21 @@ SCSS                     2 repos             █░░░░░░░░░░�
       <pre>npx diegohorvatti</pre>
     </td>
   </tr>
-
-  <br>
-  <a href="https://www.npmjs.com/package/diegohorvatti">
-    <img src="./public/img/profile/npm_div" />
-  </a>
 </div>
 
 <h1 align="center">Ohhhhhhhhhhhhhhhhhhhhhhhhhh myyyyyyyyyyyyyyyyy gooooooooooooooooooooooooood</h1>
 <img align="center" width="100%" src="https://i.pinimg.com/736x/c0/f6/ee/c0f6ee80a5c7eb475b9dbf5d19ee200a.jpg" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <p>Desenvolvedor de software com experiência no desenvolvimento de websites. Tenho conhecimento sólido das linguagens JavaScript e TypeScript, e atualmente trabalho com ReactJS e NextJS.
+
+Alguns livros que estou lendo atualmente:
+Eragon, Christopher Paolini.
+Eldest, Christopher Paolini.
+
+Como hobby, toco guitarra e gaita diatônica leio MUITO mangá e novels e alguns livros, gosto com o qual vim a aderir por ultimo e me apaixonei sempre leio indo para o trabalho.
+
+Atualmente minha meta é terminar meu TCC relacionado a 'levitação por magnetismo com arduino' Projeto com o qual tenho que lidar com as leis da física e programação react time em múltiplos dispositivos, a meta final é levar isso para a TDC de 2024 com a abordagem 'Carro Flutuante e Sustentável' pretendo usar redes neurais e Inteligência Artificial no projeto que está sendo open source, A documentado é pela wiki do github juntamente com a explicação teórica no TCC.</p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <img width="100%" border="0" align="center"
   src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/jojo_1.gif"
   alt="Diego Horvatti" />
