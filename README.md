@@ -62,10 +62,12 @@
   </div>
 </div>
 
+<!--
 <div align="center">
   <img width="100%" src="https://github.com/DIEGOHORVATTI/DIEGOHORVATTI/blob/output/github-contribution-grid-snake.svg"
     alt="snake - Diego Horvatti" />
 </div>
+-->
 
 <table width="100%" border="0">
   <tr>
