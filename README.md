@@ -7,7 +7,7 @@
 - *When I'm not coding, I'm probably listening to music or at the gym.*
 
 <p align=center>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/diego-horvatti">
     <img src="https://skillicons.dev/icons?i=apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
   </a>
 </p>
