@@ -27,5 +27,12 @@ flowchart TD
     I --> J[Happy clients]
     J --> K(Developer also happy! 😊)
 ```
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
+  </a>
+</p>
+
+<br />
 
 Contact: d.horvattid@gmail.com
