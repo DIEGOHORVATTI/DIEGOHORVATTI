@@ -2,7 +2,7 @@
 
 - *Just a developer passionate about creating clean and efficient code*
 - *Design patterns and SOLID with TDD are my afternoon coffee*
-- *I believe that smart typing helps more than chaos*
+- *I believe that typescript helps more than chaos*
 - *Always looking for teams that want to make a difference with technical excellence*
 - *When I'm not coding, I'm probably listening to music or at the gym*
 
