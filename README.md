@@ -6,9 +6,11 @@
 - *Always looking for teams that want to make a difference with technical excellence.*
 - *When I'm not coding, I'm probably listening to music or at the gym.*
 
+### Currently contributing to the Mongoose and ClickHouse Community
+
 <p align=center>
   <a href="https://www.linkedin.com/in/diego-horvatti">
-    <img src="https://skillicons.dev/icons?i=apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
+    <img src="https://skillicons.dev/icons?i=clickhouse,apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
   </a>
 </p>
 
