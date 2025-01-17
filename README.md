@@ -10,7 +10,7 @@
 
 <p align=center>
   <a href="https://www.linkedin.com/in/diego-horvatti">
-    <img src="https://skillicons.dev/icons?i=clickhouse,apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=clickhouse,apple,bash,bun,typescript,rust,nodejs,react,express,elysia,prisma,graphql,postgresql,mongodb,redis,firebase,actix,docker,cloudflare,aws,gcp,mui,vscode" />
   </a>
 </p>
 
