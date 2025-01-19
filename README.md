@@ -1,4 +1,4 @@
-## ```{ name: "Diego Horvatti", age: "22", locale: ["pt-BR", "en", "es"]}```
+## ```{ name: "Diego Horvatti", age: "22", locale: ["pt-BR","en"]}```
 𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
 - *Just a developer passionate about creating clean and efficient code.*
 - *Design patterns and SOLID with TDD are my afternoon coffee*
