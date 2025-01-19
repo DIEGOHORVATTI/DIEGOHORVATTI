@@ -1,12 +1,17 @@
-## ```{ name: "Diego Horvatti", age: "22", locale: "pt-BR/en"}```
-
+## ```{ name: "Diego Horvatti", age: "22", locale: ["pt-BR", "en", "es"]}```
+𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟𓆝 𓆟 𓆞 𓆝 𓆟
 - *Just a developer passionate about creating clean and efficient code.*
 - *Design patterns and SOLID with TDD are my afternoon coffee*
 - *I believe that TypeScript helps more than it gets in the way.*
 - *Always looking for teams that want to make a difference with technical excellence.*
 - *When I'm not coding, I'm probably listening to music or at the gym.*
 
-### Currently contributing to the Mongoose and ClickHouse Community
+<hr />
+
+### •⩊• Currently contributing to the Mongoose community
+### •ᴗ• I'm currently using GitLab more than Github, that's why I'm out, folks.
+
+<hr />
 
 <p align=center>
   <a href="https://www.linkedin.com/in/diego-horvatti">
