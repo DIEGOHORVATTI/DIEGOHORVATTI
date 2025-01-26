@@ -5,7 +5,7 @@
 - *I believe that TypeScript helps more than it gets in the way.*
 - *Always looking for teams that want to make a difference with technical excellence.*
 - *When I'm not coding, I'm probably listening to music or at the gym.*
-
+- <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zx06f3wb13cgoll54gp3snq0m&cover_image=true&theme=novatorem&show_offline=false&background_color=151414&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 <hr />
 
 ### •⩊• Currently contributing to the Mongoose community
