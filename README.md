@@ -1,4 +1,4 @@
-# Software only matters when it solves real business problems with clarity, speed, and technical excellence.
+## Software matters only when it solves real problems — and sometimes the bravest code is the one you never write.
 
 ---
 
