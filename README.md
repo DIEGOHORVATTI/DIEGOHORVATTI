@@ -1,4 +1,4 @@
-## Software matters only when it solves real problems — and sometimes the bravest code is the one you never write.
+### Software Engineer with a strong focus on TypeScript, scalable architectures, and automation. Hands-on experience with highly complex systems, omnichannel, CI/CD pipelines, and AWS cloud. Real-world experience in restructuring core products, massive forms, microservices, and large-scale data integration. Technical, direct, and results-oriented profile.
 
 ---
 
