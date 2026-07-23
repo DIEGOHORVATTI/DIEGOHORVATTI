@@ -1,12 +1,32 @@
-### Software Engineer with a strong focus on TypeScript, scalable architectures, and automation. Hands-on experience with highly complex systems, omnichannel, CI/CD pipelines, and AWS cloud. Real-world experience in restructuring core products, massive forms, microservices, and large-scale data integration. Technical, direct, and results-oriented profile.
+# Hi, I'm Diego Horvatti 👋
+
+**Full Stack Engineer** — TypeScript, scalable architectures, and automation.
+
+I work end-to-end on SaaS platforms and data-heavy products: API design, data modeling,
+integrations, automated testing, CI/CD, and production deployment. Real-world experience
+restructuring core products, omnichannel systems, massive forms, microservices, and
+large-scale data pipelines. Technical, direct, and results-oriented.
+
+🌐 [horvatti.com](https://horvatti.com) · 📍 Florianópolis, SC — Brazil
 
 ---
 
-### Contact
+### Stack
 
-📧 **d.horvattid@gmail.com**  
-📱 **WhatsApp:** [+55 49 99195-4455](https://api.whatsapp.com/send/?phone=5549991954455)  
-💼 **LinkedIn:** [diego-horvatti](https://www.linkedin.com/in/diego-horvatti)
+`TypeScript` `JavaScript` `Python` `SQL`
+`React` `Next.js` `Vite` `Lit` `Material UI` `Redux Toolkit`
+`Node.js` `Bun` `Express` `REST` `GraphQL` `oRPC` `tRPC` `Zod` `WebSockets`
+`PostgreSQL` `MongoDB` `Redis` `ClickHouse` `SQLite` `Drizzle ORM`
+`Vitest` `Jest` `Cypress` `Docker` `Docker Swarm` `GitLab CI/CD` `Vercel`
+
+---
+
+### A few numbers
+
+- **8% → 93.5%** test coverage on an omnichannel contact center platform
+- **~90%** faster builds after migrating a legacy setup to Vite
+- **~90%** less load on PostgreSQL by moving analytics to ClickHouse
+- **10k+** users on a field-operations SaaS I helped modernize
 
 ---
 
@@ -31,3 +51,10 @@ flowchart TD
   M --> A
 ```
 
+---
+
+### Contact
+
+📧 **d.horvattid@gmail.com**
+📱 **WhatsApp:** [+55 49 99195-4455](https://api.whatsapp.com/send/?phone=5549991954455)
+💼 **LinkedIn:** [diego-horvatti](https://www.linkedin.com/in/diego-horvatti)
