@@ -21,35 +21,13 @@ large-scale data pipelines. Technical, direct, and results-oriented.
 
 ---
 
-### A few numbers
+### Projects
 
-- **8% → 93.5%** test coverage on an omnichannel contact center platform
-- **~90%** faster builds after migrating a legacy setup to Vite
-- **~90%** less load on PostgreSQL by moving analytics to ClickHouse
-- **10k+** users on a field-operations SaaS I helped modernize
+ScaleAi:
 
----
+Champ:
 
-### How I see an ideal development process
-
-```mermaid
-flowchart TD
-  A(Developer) -->|Crafts| B(Clean, Scalable Code)
-  B --> C{Testing Pipeline}
-  C --> D[Unit Tests ✅]
-  C --> E[Integration & Load Tests ⚡]
-  D --> F[Performance Benchmarks 🏎️]
-  E --> F
-  F --> G[Code Review 🔍]
-  G --> H{Approved?}
-  H -- Yes --> I[Automated CI/CD 🚀]
-  H -- No --> C
-  I --> J[Zero-downtime Deployment ☁️]
-  J --> K[Production-Ready Application 🌍]
-  K --> L[Delighted Clients 🙌]
-  L --> M[Continuous Feedback Loop 🔄]
-  M --> A
-```
+SuperManhwa:
 
 ---
 
